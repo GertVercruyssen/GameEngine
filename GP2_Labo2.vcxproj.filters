@@ -1,0 +1,378 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Game Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Game Files\Graph">
+      <UniqueIdentifier>{6ab88dae-0aa6-4c94-ba04-05d3d52784cd}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Game Files\Shapes">
+      <UniqueIdentifier>{f129be1e-e48c-4956-95b4-66b88bc1af53}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Game Files\Shapes\PhysX">
+      <UniqueIdentifier>{66869dfa-5ba2-42ef-a955-5ce1db4458e6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Game Files\GamePlay">
+      <UniqueIdentifier>{35b39090-89e2-4c5d-af33-d1af827b5e3b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Framework Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hpp;hxx;hm;inl;inc;xsd</Extensions>
+    </Filter>
+    <Filter Include="Framework Files\Base">
+      <UniqueIdentifier>{4ccd89dd-d2a8-4049-9196-44b81ba4f2ef}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Framework Files\Base\ini">
+      <UniqueIdentifier>{79ea066b-d570-4a19-b58a-9bc4f66c0040}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Framework Files\Managers">
+      <UniqueIdentifier>{30860e82-9578-4229-9db3-1d81ccad900e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Framework Files\ActiveObjects">
+      <UniqueIdentifier>{b48b7f7b-b51f-4e55-abe8-356cb2568541}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav</Extensions>
+    </Filter>
+    <Filter Include="Loaders">
+      <UniqueIdentifier>{778a689a-2270-430f-b797-e1bd508de5c5}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="Camera.cpp">
+      <Filter>Game Files</Filter>
+    </ClCompile>
+    <ClCompile Include="DrawableTex2D.cpp">
+      <Filter>Game Files</Filter>
+    </ClCompile>
+    <ClCompile Include="FullscreenQuad.cpp">
+      <Filter>Game Files</Filter>
+    </ClCompile>
+    <ClCompile Include="GP2_Game_App.cpp">
+      <Filter>Game Files</Filter>
+    </ClCompile>
+    <ClCompile Include="PhysicsMiniScene.cpp">
+      <Filter>Game Files</Filter>
+    </ClCompile>
+    <ClCompile Include="SpotLight.cpp">
+      <Filter>Game Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Graph3DObject.cpp">
+      <Filter>Game Files\Graph</Filter>
+    </ClCompile>
+    <ClCompile Include="GraphBase.cpp">
+      <Filter>Game Files\Graph</Filter>
+    </ClCompile>
+    <ClCompile Include="GraphCamera.cpp">
+      <Filter>Game Files\Graph</Filter>
+    </ClCompile>
+    <ClCompile Include="GraphNode.cpp">
+      <Filter>Game Files\Graph</Filter>
+    </ClCompile>
+    <ClCompile Include="ShapeBase.cpp">
+      <Filter>Game Files\Shapes</Filter>
+    </ClCompile>
+    <ClCompile Include="ShapeColor.cpp">
+      <Filter>Game Files\Shapes</Filter>
+    </ClCompile>
+    <ClCompile Include="ShapeColorNormal.cpp">
+      <Filter>Game Files\Shapes</Filter>
+    </ClCompile>
+    <ClCompile Include="ShapeColorNormalCube.cpp">
+      <Filter>Game Files\Shapes</Filter>
+    </ClCompile>
+    <ClCompile Include="ShapeColorNormalCylinder.cpp">
+      <Filter>Game Files\Shapes</Filter>
+    </ClCompile>
+    <ClCompile Include="ShapeColorNormalQuad.cpp">
+      <Filter>Game Files\Shapes</Filter>
+    </ClCompile>
+    <ClCompile Include="ShapeColorQuad.cpp">
+      <Filter>Game Files\Shapes</Filter>
+    </ClCompile>
+    <ClCompile Include="ShapeColorTriangle.cpp">
+      <Filter>Game Files\Shapes</Filter>
+    </ClCompile>
+    <ClCompile Include="ShapePNT.cpp">
+      <Filter>Game Files\Shapes</Filter>
+    </ClCompile>
+    <ClCompile Include="ShapePNTQuad.cpp">
+      <Filter>Game Files\Shapes</Filter>
+    </ClCompile>
+    <ClCompile Include="ShapePNTQuadAnim.cpp">
+      <Filter>Game Files\Shapes</Filter>
+    </ClCompile>
+    <ClCompile Include="ShapePNTQuadDAE.cpp">
+      <Filter>Game Files\Shapes</Filter>
+    </ClCompile>
+    <ClCompile Include="SkyBox.cpp">
+      <Filter>Game Files\Shapes</Filter>
+    </ClCompile>
+    <ClCompile Include="CubePhysX.cpp">
+      <Filter>Game Files\Shapes\PhysX</Filter>
+    </ClCompile>
+    <ClCompile Include="PhysicsDebugRenderer.cpp">
+      <Filter>Game Files\Shapes\PhysX</Filter>
+    </ClCompile>
+    <ClCompile Include="PhysicsMesh.cpp">
+      <Filter>Game Files\Shapes\PhysX</Filter>
+    </ClCompile>
+    <ClCompile Include="Character.cpp">
+      <Filter>Game Files\GamePlay</Filter>
+    </ClCompile>
+    <ClCompile Include="CookingStream.cpp">
+      <Filter>Framework Files</Filter>
+    </ClCompile>
+    <ClCompile Include="DX10MaterialIndexBuffer.cpp">
+      <Filter>Framework Files</Filter>
+    </ClCompile>
+    <ClCompile Include="DX10ObjMesh.cpp">
+      <Filter>Framework Files</Filter>
+    </ClCompile>
+    <ClCompile Include="float3.cpp">
+      <Filter>Framework Files</Filter>
+    </ClCompile>
+    <ClCompile Include="StringUtil.cpp">
+      <Filter>Framework Files</Filter>
+    </ClCompile>
+    <ClCompile Include="AbstractDXGame.cpp">
+      <Filter>Framework Files\Base</Filter>
+    </ClCompile>
+    <ClCompile Include="D3D10DeviceWrapper.cpp">
+      <Filter>Framework Files\Base</Filter>
+    </ClCompile>
+    <ClCompile Include="DXWindow.cpp">
+      <Filter>Framework Files\Base</Filter>
+    </ClCompile>
+    <ClCompile Include="GameTimer.cpp">
+      <Filter>Framework Files\Base</Filter>
+    </ClCompile>
+    <ClCompile Include="GameWinMain.cpp">
+      <Filter>Framework Files\Base</Filter>
+    </ClCompile>
+    <ClCompile Include="Input.cpp">
+      <Filter>Framework Files\Base</Filter>
+    </ClCompile>
+    <ClCompile Include="PhysX.cpp">
+      <Filter>Framework Files\Base</Filter>
+    </ClCompile>
+    <ClCompile Include="stdafx.cpp">
+      <Filter>Framework Files\Base</Filter>
+    </ClCompile>
+    <ClCompile Include="XInputWrapper.cpp">
+      <Filter>Framework Files\Base</Filter>
+    </ClCompile>
+    <ClCompile Include="EffectManager.cpp">
+      <Filter>Framework Files\Managers</Filter>
+    </ClCompile>
+    <ClCompile Include="LightManager.cpp">
+      <Filter>Framework Files\Managers</Filter>
+    </ClCompile>
+    <ClCompile Include="TextureManager.cpp">
+      <Filter>Framework Files\Managers</Filter>
+    </ClCompile>
+    <ClCompile Include="Door.cpp">
+      <Filter>Framework Files\ActiveObjects</Filter>
+    </ClCompile>
+    <ClCompile Include="PickableItem.cpp">
+      <Filter>Framework Files\ActiveObjects</Filter>
+    </ClCompile>
+    <ClCompile Include="InputMesh.cpp">
+      <Filter>Loaders</Filter>
+    </ClCompile>
+    <ClCompile Include="LightReader.cpp">
+      <Filter>Loaders</Filter>
+    </ClCompile>
+    <ClCompile Include="ObjPhysicsReader.cpp">
+      <Filter>Loaders</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Camera.h">
+      <Filter>Game Files</Filter>
+    </ClInclude>
+    <ClInclude Include="DrawableTex2D.h">
+      <Filter>Game Files</Filter>
+    </ClInclude>
+    <ClInclude Include="FullscreenQuad.h">
+      <Filter>Game Files</Filter>
+    </ClInclude>
+    <ClInclude Include="GP2_Game_App.h">
+      <Filter>Game Files</Filter>
+    </ClInclude>
+    <ClInclude Include="PhysicsMiniScene.h">
+      <Filter>Game Files</Filter>
+    </ClInclude>
+    <ClInclude Include="SpotLight.h">
+      <Filter>Game Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Graph3DObject.h">
+      <Filter>Game Files\Graph</Filter>
+    </ClInclude>
+    <ClInclude Include="GraphBase.h">
+      <Filter>Game Files\Graph</Filter>
+    </ClInclude>
+    <ClInclude Include="GraphCamera.h">
+      <Filter>Game Files\Graph</Filter>
+    </ClInclude>
+    <ClInclude Include="GraphNode.h">
+      <Filter>Game Files\Graph</Filter>
+    </ClInclude>
+    <ClInclude Include="ShapeBase.h">
+      <Filter>Game Files\Shapes</Filter>
+    </ClInclude>
+    <ClInclude Include="ShapeColor.h">
+      <Filter>Game Files\Shapes</Filter>
+    </ClInclude>
+    <ClInclude Include="ShapeColorNormal.h">
+      <Filter>Game Files\Shapes</Filter>
+    </ClInclude>
+    <ClInclude Include="ShapeColorNormalCube.h">
+      <Filter>Game Files\Shapes</Filter>
+    </ClInclude>
+    <ClInclude Include="ShapeColorNormalCylinder.h">
+      <Filter>Game Files\Shapes</Filter>
+    </ClInclude>
+    <ClInclude Include="ShapeColorNormalQuad.h">
+      <Filter>Game Files\Shapes</Filter>
+    </ClInclude>
+    <ClInclude Include="ShapeColorQuad.h">
+      <Filter>Game Files\Shapes</Filter>
+    </ClInclude>
+    <ClInclude Include="ShapeColorTriangle.h">
+      <Filter>Game Files\Shapes</Filter>
+    </ClInclude>
+    <ClInclude Include="ShapePNT.h">
+      <Filter>Game Files\Shapes</Filter>
+    </ClInclude>
+    <ClInclude Include="ShapePNTQuad.h">
+      <Filter>Game Files\Shapes</Filter>
+    </ClInclude>
+    <ClInclude Include="ShapePNTQuadAnim.h">
+      <Filter>Game Files\Shapes</Filter>
+    </ClInclude>
+    <ClInclude Include="ShapePNTQuadDAE.h">
+      <Filter>Game Files\Shapes</Filter>
+    </ClInclude>
+    <ClInclude Include="SkyBox.h">
+      <Filter>Game Files\Shapes</Filter>
+    </ClInclude>
+    <ClInclude Include="CubePhysX.h">
+      <Filter>Game Files\Shapes\PhysX</Filter>
+    </ClInclude>
+    <ClInclude Include="PhysicsDebugRenderer.h">
+      <Filter>Game Files\Shapes\PhysX</Filter>
+    </ClInclude>
+    <ClInclude Include="PhysicsMesh.h">
+      <Filter>Game Files\Shapes\PhysX</Filter>
+    </ClInclude>
+    <ClInclude Include="Character.h">
+      <Filter>Game Files\GamePlay</Filter>
+    </ClInclude>
+    <ClInclude Include="CookingStream.h">
+      <Filter>Framework Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D3DUtil.h">
+      <Filter>Framework Files</Filter>
+    </ClInclude>
+    <ClInclude Include="DX10MaterialIndexBuffer.h">
+      <Filter>Framework Files</Filter>
+    </ClInclude>
+    <ClInclude Include="DX10ObjMesh.h">
+      <Filter>Framework Files</Filter>
+    </ClInclude>
+    <ClInclude Include="float3.h">
+      <Filter>Framework Files</Filter>
+    </ClInclude>
+    <ClInclude Include="StringUtil.h">
+      <Filter>Framework Files</Filter>
+    </ClInclude>
+    <ClInclude Include="util.h">
+      <Filter>Framework Files</Filter>
+    </ClInclude>
+    <ClInclude Include="vertex.h">
+      <Filter>Framework Files</Filter>
+    </ClInclude>
+    <ClInclude Include="AbstractDXGame.h">
+      <Filter>Framework Files\Base</Filter>
+    </ClInclude>
+    <ClInclude Include="D3D10DeviceWrapper.h">
+      <Filter>Framework Files\Base</Filter>
+    </ClInclude>
+    <ClInclude Include="DXWindow.h">
+      <Filter>Framework Files\Base</Filter>
+    </ClInclude>
+    <ClInclude Include="GameTimer.h">
+      <Filter>Framework Files\Base</Filter>
+    </ClInclude>
+    <ClInclude Include="GameWinMain.h">
+      <Filter>Framework Files\Base</Filter>
+    </ClInclude>
+    <ClInclude Include="Input.h">
+      <Filter>Framework Files\Base</Filter>
+    </ClInclude>
+    <ClInclude Include="PhysX.h">
+      <Filter>Framework Files\Base</Filter>
+    </ClInclude>
+    <ClInclude Include="stdafx.h">
+      <Filter>Framework Files\Base</Filter>
+    </ClInclude>
+    <ClInclude Include="targetver.h">
+      <Filter>Framework Files\Base</Filter>
+    </ClInclude>
+    <ClInclude Include="XInputWrapper.h">
+      <Filter>Framework Files\Base</Filter>
+    </ClInclude>
+    <ClInclude Include="EffectManager.h">
+      <Filter>Framework Files\Managers</Filter>
+    </ClInclude>
+    <ClInclude Include="LightManager.h">
+      <Filter>Framework Files\Managers</Filter>
+    </ClInclude>
+    <ClInclude Include="TextureManager.h">
+      <Filter>Framework Files\Managers</Filter>
+    </ClInclude>
+    <ClInclude Include="Door.h">
+      <Filter>Framework Files\ActiveObjects</Filter>
+    </ClInclude>
+    <ClInclude Include="PickableItem.h">
+      <Filter>Framework Files\ActiveObjects</Filter>
+    </ClInclude>
+    <ClInclude Include="Resource.h">
+      <Filter>Resource Files</Filter>
+    </ClInclude>
+    <ClInclude Include="InputMesh.h">
+      <Filter>Loaders</Filter>
+    </ClInclude>
+    <ClInclude Include="LightReader.h">
+      <Filter>Loaders</Filter>
+    </ClInclude>
+    <ClInclude Include="ObjPhysicsReader.h">
+      <Filter>Loaders</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <Image Include="GP2_App.ico">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="small.ico">
+      <Filter>Resource Files</Filter>
+    </Image>
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="GP2_App.rc">
+      <Filter>Resource Files</Filter>
+    </ResourceCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <FxCompile Include="Effect\checker.fx" />
+    <FxCompile Include="Effect\color.fx" />
+    <FxCompile Include="Effect\colornormal.fx" />
+    <FxCompile Include="Effect\physics.fx" />
+    <FxCompile Include="Effect\PNTa.fx" />
+    <FxCompile Include="Effect\PosTex.fx" />
+  </ItemGroup>
+</Project>
