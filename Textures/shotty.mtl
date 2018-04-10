@@ -1,0 +1,7 @@
+#DAE MtlLib creator , made by Koen Samyn
+newmtl 02_-_Default
+Ka 0.588235 0.588235 0.588235
+Ks 0.9 0.9 0.9
+Kd 0.588235 0.588235m 0.588235
+map_Kd /template-(2).dds
+Ns 10.0
