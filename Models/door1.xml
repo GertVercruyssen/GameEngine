@@ -1,0 +1,6 @@
+<?xml version="1.0" ?>
+<door>
+	<mesh file="door.obj"/>
+	<physics file="door.convexbin"/>
+	<axis localPosition="0,0,0" localDirection="0,0,1"/>
+</door>

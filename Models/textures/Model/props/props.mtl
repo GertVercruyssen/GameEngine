@@ -1,0 +1,7 @@
+#DAE MtlLib creator , made by Koen Samyn
+newmtl vat
+Ka 0.588235 0.588235 0.588235
+Ks 0.9 0.9 0.9
+Kd 0.588235 0.588235m 0.588235
+map_Kd Model\props\1DAE8_leysj_opdr4_prop01_UV.dds
+Ns 10.0

@@ -1,0 +1,2473 @@
+<?xml version='1.0'?>
+<animation startFrame='90' endFrame='110' name='walk'>
+	<anim name='Bone04'>
+		<time value='90'>
+			<transform rot='-1.5708 -1.33199 1.5708 ' pivot='0.0 -1.27223 8.79232'/>
+		</time>
+		<time value='91'>
+			<transform rot='-1.5708 -1.33199 1.5708 ' pivot='0.0 -1.27223 9.11248'/>
+		</time>
+		<time value='92'>
+			<transform rot='-1.5708 -1.33199 1.5708 ' pivot='0.0 -1.27223 9.43264'/>
+		</time>
+		<time value='93'>
+			<transform rot='-1.5708 -1.33199 1.5708 ' pivot='0.0 -1.27223 9.7528'/>
+		</time>
+		<time value='94'>
+			<transform rot='-1.5708 -1.33199 1.5708 ' pivot='0.0 -1.27223 10.073'/>
+		</time>
+		<time value='95'>
+			<transform rot='-1.5708 -1.33199 1.5708 ' pivot='0.0 -1.27223 10.3931'/>
+		</time>
+		<time value='96'>
+			<transform rot='-1.5708 -1.33199 1.5708 ' pivot='0.0 -1.27223 10.073'/>
+		</time>
+		<time value='97'>
+			<transform rot='-1.5708 -1.33199 1.5708 ' pivot='0.0 -1.27223 9.7528'/>
+		</time>
+		<time value='98'>
+			<transform rot='-1.5708 -1.33199 1.5708 ' pivot='0.0 -1.27223 9.43264'/>
+		</time>
+		<time value='99'>
+			<transform rot='-1.5708 -1.33199 1.5708 ' pivot='0.0 -1.27223 9.11248'/>
+		</time>
+		<time value='100'>
+			<transform rot='-1.5708 -1.33199 1.5708 ' pivot='0.0 -1.27223 8.79232'/>
+		</time>
+		<time value='101'>
+			<transform rot='-1.5708 -1.33199 1.5708 ' pivot='0.0 -1.27223 9.11248'/>
+		</time>
+		<time value='102'>
+			<transform rot='-1.5708 -1.33199 1.5708 ' pivot='0.0 -1.27223 9.43264'/>
+		</time>
+		<time value='103'>
+			<transform rot='-1.5708 -1.33199 1.5708 ' pivot='0.0 -1.27223 9.7528'/>
+		</time>
+		<time value='104'>
+			<transform rot='-1.5708 -1.33199 1.5708 ' pivot='0.0 -1.27223 10.073'/>
+		</time>
+		<time value='105'>
+			<transform rot='-1.5708 -1.33199 1.5708 ' pivot='0.0 -1.27223 10.3931'/>
+		</time>
+		<time value='106'>
+			<transform rot='-1.5708 -1.33199 1.5708 ' pivot='0.0 -1.27223 10.073'/>
+		</time>
+		<time value='107'>
+			<transform rot='-1.5708 -1.33199 1.5708 ' pivot='0.0 -1.27223 9.7528'/>
+		</time>
+		<time value='108'>
+			<transform rot='-1.5708 -1.33199 1.5708 ' pivot='0.0 -1.27223 9.43264'/>
+		</time>
+		<time value='109'>
+			<transform rot='-1.5708 -1.33199 1.5708 ' pivot='0.0 -1.27223 9.11248'/>
+		</time>
+		<time value='110'>
+			<transform rot='-1.5708 -1.33199 1.5708 ' pivot='0.0 -1.27223 8.79232'/>
+		</time>
+	</anim>
+	<anim name='Bone05'>
+		<time value='90'>
+			<transform rot='-1.5708 -1.17294 1.5708 ' pivot='0.0 -0.793004 10.7608'/>
+		</time>
+		<time value='91'>
+			<transform rot='-1.58735 -1.1898 1.58925 ' pivot='0.0 -0.793004 11.081'/>
+		</time>
+		<time value='92'>
+			<transform rot='-1.60564 -1.20653 1.60933 ' pivot='0.0 -0.793004 11.4011'/>
+		</time>
+		<time value='93'>
+			<transform rot='-1.62589 -1.22311 1.63125 ' pivot='0.0 -0.793004 11.7213'/>
+		</time>
+		<time value='94'>
+			<transform rot='-1.64837 -1.23951 1.65527 ' pivot='-1.28704e-007 -0.793004 12.0415'/>
+		</time>
+		<time value='95'>
+			<transform rot='-1.67339 -1.25571 1.68172 ' pivot='0.0 -0.793004 12.3616'/>
+		</time>
+		<time value='96'>
+			<transform rot='-1.64837 -1.23951 1.65527 ' pivot='0.0 -0.793004 12.0415'/>
+		</time>
+		<time value='97'>
+			<transform rot='-1.62589 -1.2231 1.63125 ' pivot='0.0 -0.793004 11.7213'/>
+		</time>
+		<time value='98'>
+			<transform rot='-1.60564 -1.20653 1.60933 ' pivot='0.0 -0.793004 11.4011'/>
+		</time>
+		<time value='99'>
+			<transform rot='-1.58735 -1.1898 1.58925 ' pivot='0.0 -0.793004 11.081'/>
+		</time>
+		<time value='100'>
+			<transform rot='-1.5708 -1.17294 1.5708 ' pivot='0.0 -0.793004 10.7608'/>
+		</time>
+		<time value='101'>
+			<transform rot='-1.58735 -1.1898 1.58925 ' pivot='0.0 -0.793004 11.081'/>
+		</time>
+		<time value='102'>
+			<transform rot='-1.60564 -1.20653 1.60933 ' pivot='0.0 -0.793004 11.4011'/>
+		</time>
+		<time value='103'>
+			<transform rot='-1.62589 -1.22311 1.63125 ' pivot='0.0 -0.793004 11.7213'/>
+		</time>
+		<time value='104'>
+			<transform rot='-1.64837 -1.23951 1.65527 ' pivot='-1.28704e-007 -0.793004 12.0415'/>
+		</time>
+		<time value='105'>
+			<transform rot='-1.67339 -1.25571 1.68172 ' pivot='0.0 -0.793004 12.3616'/>
+		</time>
+		<time value='106'>
+			<transform rot='-1.64837 -1.23951 1.65527 ' pivot='0.0 -0.793004 12.0415'/>
+		</time>
+		<time value='107'>
+			<transform rot='-1.62589 -1.2231 1.63125 ' pivot='0.0 -0.793004 11.7213'/>
+		</time>
+		<time value='108'>
+			<transform rot='-1.60564 -1.20653 1.60933 ' pivot='0.0 -0.793004 11.4011'/>
+		</time>
+		<time value='109'>
+			<transform rot='-1.58735 -1.1898 1.58925 ' pivot='0.0 -0.793004 11.081'/>
+		</time>
+		<time value='110'>
+			<transform rot='-1.5708 -1.17294 1.5708 ' pivot='0.0 -0.793004 10.7608'/>
+		</time>
+	</anim>
+	<anim name='Bone06'>
+		<time value='90'>
+			<transform rot='-1.5708 -1.04895 1.5708 ' pivot='0.0 -0.225069 12.1122'/>
+		</time>
+		<time value='91'>
+			<transform rot='-1.59617 -1.0826 1.6 ' pivot='-0.0100589 -0.248021 12.4417'/>
+		</time>
+		<time value='92'>
+			<transform rot='-1.62577 -1.11584 1.63318 ' pivot='-0.0201172 -0.271154 12.7708'/>
+		</time>
+		<time value='93'>
+			<transform rot='-1.66049 -1.14855 1.67122 ' pivot='-0.0301738 -0.294456 13.0995'/>
+		</time>
+		<time value='94'>
+			<transform rot='-1.70145 -1.18061 1.71527 ' pivot='-0.0402304 -0.317917 13.4276'/>
+		</time>
+		<time value='95'>
+			<transform rot='-1.75013 -1.21183 1.76677 ' pivot='-0.0502835 -0.341527 13.7553'/>
+		</time>
+		<time value='96'>
+			<transform rot='-1.70145 -1.18061 1.71527 ' pivot='-0.04023 -0.317917 13.4276'/>
+		</time>
+		<time value='97'>
+			<transform rot='-1.66049 -1.14855 1.67122 ' pivot='-0.0301745 -0.294455 13.0995'/>
+		</time>
+		<time value='98'>
+			<transform rot='-1.62577 -1.11584 1.63318 ' pivot='-0.0201168 -0.271154 12.7708'/>
+		</time>
+		<time value='99'>
+			<transform rot='-1.59617 -1.0826 1.6 ' pivot='-0.0100585 -0.248022 12.4417'/>
+		</time>
+		<time value='100'>
+			<transform rot='-1.5708 -1.04895 1.5708 ' pivot='0.0 -0.225069 12.1122'/>
+		</time>
+		<time value='101'>
+			<transform rot='-1.59617 -1.0826 1.6 ' pivot='-0.0100589 -0.248021 12.4417'/>
+		</time>
+		<time value='102'>
+			<transform rot='-1.62577 -1.11584 1.63318 ' pivot='-0.0201172 -0.271154 12.7708'/>
+		</time>
+		<time value='103'>
+			<transform rot='-1.66049 -1.14855 1.67122 ' pivot='-0.0301738 -0.294456 13.0995'/>
+		</time>
+		<time value='104'>
+			<transform rot='-1.70145 -1.18061 1.71527 ' pivot='-0.0402304 -0.317917 13.4276'/>
+		</time>
+		<time value='105'>
+			<transform rot='-1.75013 -1.21183 1.76677 ' pivot='-0.0502835 -0.341527 13.7553'/>
+		</time>
+		<time value='106'>
+			<transform rot='-1.70145 -1.18061 1.71527 ' pivot='-0.04023 -0.317917 13.4276'/>
+		</time>
+		<time value='107'>
+			<transform rot='-1.66049 -1.14855 1.67122 ' pivot='-0.0301745 -0.294455 13.0995'/>
+		</time>
+		<time value='108'>
+			<transform rot='-1.62577 -1.11584 1.63318 ' pivot='-0.0201168 -0.271154 12.7708'/>
+		</time>
+		<time value='109'>
+			<transform rot='-1.59617 -1.0826 1.6 ' pivot='-0.0100585 -0.248022 12.4417'/>
+		</time>
+		<time value='110'>
+			<transform rot='-1.5708 -1.04895 1.5708 ' pivot='0.0 -0.225069 12.1122'/>
+		</time>
+	</anim>
+	<anim name='Bone07'>
+		<time value='90'>
+			<transform rot='-1.5708 -0.422311 1.5708 ' pivot='0.0 1.478 15.074'/>
+		</time>
+		<time value='91'>
+			<transform rot='-1.58405 -0.456061 1.58343 ' pivot='-0.0568569 1.35375 15.4592'/>
+		</time>
+		<time value='92'>
+			<transform rot='-1.59816 -0.489638 1.59666 ' pivot='-0.113716 1.22724 15.8398'/>
+		</time>
+		<time value='93'>
+			<transform rot='-1.61318 -0.523025 1.61055 ' pivot='-0.170544 1.09862 16.2159'/>
+		</time>
+		<time value='94'>
+			<transform rot='-1.62918 -0.556205 1.62518 ' pivot='-0.22732 0.968064 16.5874'/>
+		</time>
+		<time value='95'>
+			<transform rot='-1.64624 -0.589157 1.64063 ' pivot='-0.284005 0.83575 16.9541'/>
+		</time>
+		<time value='96'>
+			<transform rot='-1.62918 -0.556204 1.62518 ' pivot='-0.227319 0.968065 16.5874'/>
+		</time>
+		<time value='97'>
+			<transform rot='-1.61318 -0.523024 1.61055 ' pivot='-0.170546 1.09862 16.2159'/>
+		</time>
+		<time value='98'>
+			<transform rot='-1.59816 -0.489638 1.59666 ' pivot='-0.113714 1.22724 15.8398'/>
+		</time>
+		<time value='99'>
+			<transform rot='-1.58405 -0.456062 1.58343 ' pivot='-0.0568557 1.35375 15.4592'/>
+		</time>
+		<time value='100'>
+			<transform rot='-1.5708 -0.422311 1.5708 ' pivot='0.0 1.478 15.074'/>
+		</time>
+		<time value='101'>
+			<transform rot='-1.58405 -0.456061 1.58343 ' pivot='-0.0568569 1.35375 15.4592'/>
+		</time>
+		<time value='102'>
+			<transform rot='-1.59816 -0.489638 1.59666 ' pivot='-0.113716 1.22724 15.8398'/>
+		</time>
+		<time value='103'>
+			<transform rot='-1.61318 -0.523025 1.61055 ' pivot='-0.170544 1.09862 16.2159'/>
+		</time>
+		<time value='104'>
+			<transform rot='-1.62918 -0.556205 1.62518 ' pivot='-0.22732 0.968064 16.5874'/>
+		</time>
+		<time value='105'>
+			<transform rot='-1.64624 -0.589157 1.64063 ' pivot='-0.284005 0.83575 16.9541'/>
+		</time>
+		<time value='106'>
+			<transform rot='-1.62918 -0.556204 1.62518 ' pivot='-0.227319 0.968065 16.5874'/>
+		</time>
+		<time value='107'>
+			<transform rot='-1.61318 -0.523025 1.61055 ' pivot='-0.170546 1.09862 16.2159'/>
+		</time>
+		<time value='108'>
+			<transform rot='-1.59816 -0.489638 1.59666 ' pivot='-0.113714 1.22724 15.8398'/>
+		</time>
+		<time value='109'>
+			<transform rot='-1.58405 -0.456062 1.58343 ' pivot='-0.0568557 1.35375 15.4592'/>
+		</time>
+		<time value='110'>
+			<transform rot='-1.5708 -0.422311 1.5708 ' pivot='0.0 1.478 15.074'/>
+		</time>
+	</anim>
+	<anim name='Bone08'>
+		<time value='90'>
+			<transform rot='-1.5708 -0.673639 1.5708 ' pivot='0.0 3.24922 15.8699'/>
+		</time>
+		<time value='91'>
+			<transform rot='-1.58645 -0.707362 1.58777 ' pivot='-0.078882 3.09697 16.3144'/>
+		</time>
+		<time value='92'>
+			<transform rot='-1.60352 -0.740854 1.60588 ' pivot='-0.158033 2.94032 16.7531'/>
+		</time>
+		<time value='93'>
+			<transform rot='-1.62215 -0.774083 1.62529 ' pivot='-0.237404 2.77951 17.1859'/>
+		</time>
+		<time value='94'>
+			<transform rot='-1.64251 -0.807013 1.64616 ' pivot='-0.316963 2.61474 17.6126'/>
+		</time>
+		<time value='95'>
+			<transform rot='-1.66478 -0.839603 1.6687 ' pivot='-0.396652 2.44626 18.0331'/>
+		</time>
+		<time value='96'>
+			<transform rot='-1.64251 -0.807012 1.64616 ' pivot='-0.316961 2.61474 17.6126'/>
+		</time>
+		<time value='97'>
+			<transform rot='-1.62215 -0.774081 1.62529 ' pivot='-0.237406 2.77951 17.1859'/>
+		</time>
+		<time value='98'>
+			<transform rot='-1.60352 -0.740855 1.60588 ' pivot='-0.158031 2.94032 16.7531'/>
+		</time>
+		<time value='99'>
+			<transform rot='-1.58645 -0.707363 1.58777 ' pivot='-0.0788805 3.09697 16.3144'/>
+		</time>
+		<time value='100'>
+			<transform rot='-1.5708 -0.673639 1.5708 ' pivot='0.0 3.24922 15.8699'/>
+		</time>
+		<time value='101'>
+			<transform rot='-1.58645 -0.707363 1.58777 ' pivot='-0.078882 3.09697 16.3144'/>
+		</time>
+		<time value='102'>
+			<transform rot='-1.60352 -0.740853 1.60588 ' pivot='-0.158033 2.94032 16.7531'/>
+		</time>
+		<time value='103'>
+			<transform rot='-1.62215 -0.774082 1.62529 ' pivot='-0.237404 2.77951 17.1859'/>
+		</time>
+		<time value='104'>
+			<transform rot='-1.64251 -0.807012 1.64616 ' pivot='-0.316963 2.61474 17.6126'/>
+		</time>
+		<time value='105'>
+			<transform rot='-1.66478 -0.839603 1.6687 ' pivot='-0.396652 2.44626 18.0331'/>
+		</time>
+		<time value='106'>
+			<transform rot='-1.64251 -0.807012 1.64616 ' pivot='-0.316961 2.61474 17.6126'/>
+		</time>
+		<time value='107'>
+			<transform rot='-1.62215 -0.774081 1.62529 ' pivot='-0.237406 2.77951 17.1859'/>
+		</time>
+		<time value='108'>
+			<transform rot='-1.60352 -0.740854 1.60588 ' pivot='-0.158031 2.94032 16.7531'/>
+		</time>
+		<time value='109'>
+			<transform rot='-1.58645 -0.707364 1.58777 ' pivot='-0.0788805 3.09697 16.3144'/>
+		</time>
+		<time value='110'>
+			<transform rot='-1.5708 -0.673639 1.5708 ' pivot='0.0 3.24922 15.8699'/>
+		</time>
+	</anim>
+	<anim name='Bone09'>
+		<time value='90'>
+			<transform rot='-1.5708 0.449647 1.5708 ' pivot='0.0 4.07623 15.9284'/>
+		</time>
+		<time value='91'>
+			<transform rot='-1.58381 0.415832 1.57234 ' pivot='-0.0855138 3.9215 16.4008'/>
+		</time>
+		<time value='92'>
+			<transform rot='-1.59682 0.382049 1.57408 ' pivot='-0.171458 3.7614 16.8672'/>
+		</time>
+		<time value='93'>
+			<transform rot='-1.60986 0.348299 1.57603 ' pivot='-0.257776 3.59614 17.3275'/>
+		</time>
+		<time value='94'>
+			<transform rot='-1.62293 0.314588 1.57819 ' pivot='-0.344437 3.42598 17.7814'/>
+		</time>
+		<time value='95'>
+			<transform rot='-1.63606 0.280917 1.58053 ' pivot='-0.431373 3.25115 18.2288'/>
+		</time>
+		<time value='96'>
+			<transform rot='-1.62293 0.314589 1.57818 ' pivot='-0.344434 3.42599 17.7814'/>
+		</time>
+		<time value='97'>
+			<transform rot='-1.60986 0.348301 1.57603 ' pivot='-0.257778 3.59615 17.3275'/>
+		</time>
+		<time value='98'>
+			<transform rot='-1.59682 0.382047 1.57408 ' pivot='-0.171455 3.7614 16.8672'/>
+		</time>
+		<time value='99'>
+			<transform rot='-1.58381 0.415831 1.57234 ' pivot='-0.0855123 3.9215 16.4008'/>
+		</time>
+		<time value='100'>
+			<transform rot='-1.5708 0.449647 1.5708 ' pivot='0.0 4.07623 15.9284'/>
+		</time>
+		<time value='101'>
+			<transform rot='-1.58381 0.415831 1.57234 ' pivot='-0.0855139 3.9215 16.4008'/>
+		</time>
+		<time value='102'>
+			<transform rot='-1.59682 0.382049 1.57408 ' pivot='-0.171458 3.7614 16.8672'/>
+		</time>
+		<time value='103'>
+			<transform rot='-1.60986 0.3483 1.57603 ' pivot='-0.257776 3.59614 17.3275'/>
+		</time>
+		<time value='104'>
+			<transform rot='-1.62293 0.314588 1.57819 ' pivot='-0.344437 3.42598 17.7814'/>
+		</time>
+		<time value='105'>
+			<transform rot='-1.63606 0.280917 1.58053 ' pivot='-0.431373 3.25115 18.2288'/>
+		</time>
+		<time value='106'>
+			<transform rot='-1.62293 0.314588 1.57818 ' pivot='-0.344434 3.42599 17.7814'/>
+		</time>
+		<time value='107'>
+			<transform rot='-1.60986 0.348301 1.57603 ' pivot='-0.257778 3.59615 17.3275'/>
+		</time>
+		<time value='108'>
+			<transform rot='-1.59682 0.382048 1.57408 ' pivot='-0.171455 3.76139 16.8672'/>
+		</time>
+		<time value='109'>
+			<transform rot='-1.58381 0.41583 1.57234 ' pivot='-0.0855123 3.92149 16.4008'/>
+		</time>
+		<time value='110'>
+			<transform rot='-1.5708 0.449647 1.5708 ' pivot='0.0 4.07623 15.9284'/>
+		</time>
+	</anim>
+	<anim name='Bone10'>
+		<time value='90'>
+			<transform rot='2.0798 0.906053 0.599073 ' pivot='1.76777 1.45314 14.4224'/>
+		</time>
+		<time value='91'>
+			<transform rot='1.92633 0.967382 0.440729 ' pivot='1.71853 1.36298 14.8282'/>
+		</time>
+		<time value='92'>
+			<transform rot='1.74086 1.00542 0.246896 ' pivot='1.66888 1.26953 15.2309'/>
+		</time>
+		<time value='93'>
+			<transform rot='1.53684 1.01485 0.0312791 ' pivot='1.61885 1.17289 15.6305'/>
+		</time>
+		<time value='94'>
+			<transform rot='1.33759 0.993857 -0.182579 ' pivot='1.56847 1.07319 16.0268'/>
+		</time>
+		<time value='95'>
+			<transform rot='1.16437 0.945187 -0.373216 ' pivot='1.51776 0.970526 16.4196'/>
+		</time>
+		<time value='96'>
+			<transform rot='0.918625 0.858089 -0.625506 ' pivot='1.56847 1.07319 16.0268'/>
+		</time>
+		<time value='97'>
+			<transform rot='0.739614 0.73346 -0.807991 ' pivot='1.61885 1.17289 15.6305'/>
+		</time>
+		<time value='98'>
+			<transform rot='0.613528 0.585754 -0.933189 ' pivot='1.66888 1.26953 15.2309'/>
+		</time>
+		<time value='99'>
+			<transform rot='0.523095 0.424293 -1.01671 ' pivot='1.71853 1.36298 14.8282'/>
+		</time>
+		<time value='100'>
+			<transform rot='0.454824 0.254728 -1.06983 ' pivot='1.76777 1.45314 14.4224'/>
+		</time>
+		<time value='101'>
+			<transform rot='0.523095 0.424292 -1.01671 ' pivot='1.71853 1.36298 14.8282'/>
+		</time>
+		<time value='102'>
+			<transform rot='0.613528 0.585754 -0.933189 ' pivot='1.66888 1.26953 15.2309'/>
+		</time>
+		<time value='103'>
+			<transform rot='0.739614 0.733461 -0.807991 ' pivot='1.61885 1.17289 15.6305'/>
+		</time>
+		<time value='104'>
+			<transform rot='0.918625 0.85809 -0.625506 ' pivot='1.56847 1.07319 16.0268'/>
+		</time>
+		<time value='105'>
+			<transform rot='1.16437 0.945187 -0.373216 ' pivot='1.51775 0.970526 16.4196'/>
+		</time>
+		<time value='106'>
+			<transform rot='1.33759 0.993856 -0.18258 ' pivot='1.56847 1.07319 16.0268'/>
+		</time>
+		<time value='107'>
+			<transform rot='1.53684 1.01485 0.0312776 ' pivot='1.61885 1.17289 15.6305'/>
+		</time>
+		<time value='108'>
+			<transform rot='1.74086 1.00542 0.246897 ' pivot='1.66888 1.26953 15.2309'/>
+		</time>
+		<time value='109'>
+			<transform rot='1.92633 0.967382 0.44073 ' pivot='1.71853 1.36298 14.8282'/>
+		</time>
+		<time value='110'>
+			<transform rot='2.0798 0.906053 0.599073 ' pivot='1.76777 1.45314 14.4224'/>
+		</time>
+	</anim>
+	<anim name='Bone11'>
+		<time value='90'>
+			<transform rot='2.54471 0.295876 1.35805 ' pivot='3.73633 2.79722 11.381'/>
+		</time>
+		<time value='91'>
+			<transform rot='2.51937 0.42534 1.30049 ' pivot='3.70175 2.29841 11.6464'/>
+		</time>
+		<time value='92'>
+			<transform rot='2.47503 0.550578 1.22678 ' pivot='3.67629 1.77547 11.9681'/>
+		</time>
+		<time value='93'>
+			<transform rot='2.40617 0.668829 1.13077 ' pivot='3.65718 1.23667 12.3483'/>
+		</time>
+		<time value='94'>
+			<transform rot='2.30548 0.77599 1.00463 ' pivot='3.6412 0.690488 12.788'/>
+		</time>
+		<time value='95'>
+			<transform rot='2.16489 0.866037 0.839911 ' pivot='3.62481 0.145468 13.2873'/>
+		</time>
+		<time value='96'>
+			<transform rot='1.9066 0.989152 0.559507 ' pivot='3.61681 -0.406235 13.1031'/>
+		</time>
+		<time value='97'>
+			<transform rot='1.54258 1.04716 0.180966 ' pivot='3.60227 -0.902236 13.0436'/>
+		</time>
+		<time value='98'>
+			<transform rot='1.15278 1.01902 -0.215558 ' pivot='3.58567 -1.31783 13.0947'/>
+		</time>
+		<time value='99'>
+			<transform rot='0.843261 0.916122 -0.523378 ' pivot='3.57144 -1.63169 13.2374'/>
+		</time>
+		<time value='100'>
+			<transform rot='0.631388 0.767451 -0.724011 ' pivot='3.56375 -1.82685 13.4487'/>
+		</time>
+		<time value='101'>
+			<transform rot='0.84326 0.916121 -0.523378 ' pivot='3.57144 -1.63169 13.2374'/>
+		</time>
+		<time value='102'>
+			<transform rot='1.15278 1.01902 -0.215558 ' pivot='3.58567 -1.31782 13.0947'/>
+		</time>
+		<time value='103'>
+			<transform rot='1.54258 1.04717 0.180968 ' pivot='3.60227 -0.902237 13.0436'/>
+		</time>
+		<time value='104'>
+			<transform rot='1.9066 0.989153 0.559509 ' pivot='3.6168 -0.406233 13.1031'/>
+		</time>
+		<time value='105'>
+			<transform rot='2.16489 0.866037 0.839911 ' pivot='3.62481 0.145468 13.2873'/>
+		</time>
+		<time value='106'>
+			<transform rot='2.30548 0.77599 1.00463 ' pivot='3.6412 0.690485 12.788'/>
+		</time>
+		<time value='107'>
+			<transform rot='2.40617 0.668829 1.13077 ' pivot='3.65718 1.23667 12.3483'/>
+		</time>
+		<time value='108'>
+			<transform rot='2.47503 0.550578 1.22678 ' pivot='3.67629 1.77547 11.9681'/>
+		</time>
+		<time value='109'>
+			<transform rot='2.51937 0.42534 1.30049 ' pivot='3.70175 2.29841 11.6464'/>
+		</time>
+		<time value='110'>
+			<transform rot='2.54471 0.295876 1.35805 ' pivot='3.73633 2.79722 11.381'/>
+		</time>
+	</anim>
+	<anim name='Bone12'>
+		<time value='90'>
+			<transform rot='1.45482 0.34405 1.65297 ' pivot='4.40283 5.88261 10.4188'/>
+		</time>
+		<time value='91'>
+			<transform rot='1.47222 0.474693 1.61131 ' pivot='4.50441 5.19517 10.2848'/>
+		</time>
+		<time value='92'>
+			<transform rot='1.47506 0.605876 1.5599 ' pivot='4.6248 4.42297 10.2416'/>
+		</time>
+		<time value='93'>
+			<transform rot='1.45871 0.736248 1.49321 ' pivot='4.75999 3.579 10.3021'/>
+		</time>
+		<time value='94'>
+			<transform rot='1.41503 0.863719 1.40238 ' pivot='4.90455 2.67825 10.4767'/>
+		</time>
+		<time value='95'>
+			<transform rot='1.32972 0.984681 1.2725 ' pivot='5.0519 1.73729 10.7735'/>
+		</time>
+		<time value='96'>
+			<transform rot='1.15188 1.16335 1.04252 ' pivot='5.15334 0.556038 10.3458'/>
+		</time>
+		<time value='97'>
+			<transform rot='0.699997 1.29712 0.547221 ' pivot='5.22539 -0.605258 10.1859'/>
+		</time>
+		<time value='98'>
+			<transform rot='-0.0667593 1.30258 -0.254683 ' pivot='5.27546 -1.68782 10.2845'/>
+		</time>
+		<time value='99'>
+			<transform rot='-0.55665 1.17301 -0.771524 ' pivot='5.3118 -2.63598 10.6197'/>
+		</time>
+		<time value='100'>
+			<transform rot='-0.765805 0.99267 -0.999079 ' pivot='5.34293 -3.39998 11.1576'/>
+		</time>
+		<time value='101'>
+			<transform rot='-0.556651 1.17301 -0.771525 ' pivot='5.3118 -2.63598 10.6197'/>
+		</time>
+		<time value='102'>
+			<transform rot='-0.0667601 1.30258 -0.254684 ' pivot='5.27546 -1.68782 10.2845'/>
+		</time>
+		<time value='103'>
+			<transform rot='0.7 1.29712 0.547225 ' pivot='5.22539 -0.605256 10.1859'/>
+		</time>
+		<time value='104'>
+			<transform rot='1.15188 1.16335 1.04252 ' pivot='5.15333 0.556044 10.3458'/>
+		</time>
+		<time value='105'>
+			<transform rot='1.32972 0.984681 1.2725 ' pivot='5.0519 1.73729 10.7735'/>
+		</time>
+		<time value='106'>
+			<transform rot='1.41503 0.863719 1.40238 ' pivot='4.90456 2.67824 10.4767'/>
+		</time>
+		<time value='107'>
+			<transform rot='1.45871 0.736249 1.49321 ' pivot='4.75999 3.579 10.3021'/>
+		</time>
+		<time value='108'>
+			<transform rot='1.47506 0.605875 1.5599 ' pivot='4.6248 4.42297 10.2416'/>
+		</time>
+		<time value='109'>
+			<transform rot='1.47222 0.474692 1.61131 ' pivot='4.50441 5.19517 10.2848'/>
+		</time>
+		<time value='110'>
+			<transform rot='1.45482 0.34405 1.65297 ' pivot='4.40283 5.88261 10.4188'/>
+		</time>
+	</anim>
+	<anim name='Bone16'>
+		<time value='90'>
+			<transform rot='0.251938 -0.550072 2.22545 ' pivot='4.29703 6.72323 10.4004'/>
+		</time>
+		<time value='91'>
+			<transform rot='0.344766 -0.4467 2.13239 ' pivot='4.43876 6.03033 10.1568'/>
+		</time>
+		<time value='92'>
+			<transform rot='0.415881 -0.333141 2.05242 ' pivot='4.60265 5.23652 10.0053'/>
+		</time>
+		<time value='93'>
+			<transform rot='0.467894 -0.212084 1.98189 ' pivot='4.78478 4.35468 9.96163'/>
+		</time>
+		<time value='94'>
+			<transform rot='0.502857 -0.0856884 1.91727 ' pivot='4.97954 3.40022 10.0393'/>
+		</time>
+		<time value='95'>
+			<transform rot='0.522033 0.0442545 1.85522 ' pivot='5.17994 2.39062 10.2491'/>
+		</time>
+		<time value='96'>
+			<transform rot='0.565385 0.236714 1.78839 ' pivot='5.32803 1.08312 9.70563'/>
+		</time>
+		<time value='97'>
+			<transform rot='0.588234 0.434285 1.72832 ' pivot='5.4414 -0.227373 9.45872'/>
+		</time>
+		<time value='98'>
+			<transform rot='0.58978 0.63491 1.66853 ' pivot='5.52771 -1.47483 9.50397'/>
+		</time>
+		<time value='99'>
+			<transform rot='0.564224 0.836651 1.59934 ' pivot='5.59571 -2.59541 9.82228'/>
+		</time>
+		<time value='100'>
+			<transform rot='0.493609 1.03689 1.50025 ' pivot='5.65473 -3.5307 10.3805'/>
+		</time>
+		<time value='101'>
+			<transform rot='0.564224 0.836651 1.59934 ' pivot='5.59571 -2.59541 9.82229'/>
+		</time>
+		<time value='102'>
+			<transform rot='0.58978 0.63491 1.66853 ' pivot='5.52771 -1.47483 9.50398'/>
+		</time>
+		<time value='103'>
+			<transform rot='0.588235 0.434284 1.72832 ' pivot='5.4414 -0.22737 9.45872'/>
+		</time>
+		<time value='104'>
+			<transform rot='0.565386 0.236714 1.78839 ' pivot='5.32802 1.08312 9.70562'/>
+		</time>
+		<time value='105'>
+			<transform rot='0.522033 0.0442544 1.85522 ' pivot='5.17993 2.39062 10.2491'/>
+		</time>
+		<time value='106'>
+			<transform rot='0.502857 -0.0856875 1.91726 ' pivot='4.97955 3.40021 10.0393'/>
+		</time>
+		<time value='107'>
+			<transform rot='0.467894 -0.212083 1.98189 ' pivot='4.78478 4.35468 9.96163'/>
+		</time>
+		<time value='108'>
+			<transform rot='0.415881 -0.333141 2.05242 ' pivot='4.60265 5.23651 10.0053'/>
+		</time>
+		<time value='109'>
+			<transform rot='0.344766 -0.4467 2.13239 ' pivot='4.43876 6.03033 10.1568'/>
+		</time>
+		<time value='110'>
+			<transform rot='0.251938 -0.550072 2.22545 ' pivot='4.29703 6.72323 10.4004'/>
+		</time>
+	</anim>
+	<anim name='Bone17'>
+		<time value='90'>
+			<transform rot='0.259873 0.383048 2.41482 ' pivot='3.80375 7.36589 10.8972'/>
+		</time>
+		<time value='91'>
+			<transform rot='0.373256 0.464606 2.41293 ' pivot='3.98233 6.75577 10.5673'/>
+		</time>
+		<time value='92'>
+			<transform rot='0.485755 0.551606 2.41487 ' pivot='4.18664 6.03243 10.3161'/>
+		</time>
+		<time value='93'>
+			<transform rot='0.598733 0.643554 2.42205 ' pivot='4.41353 5.20631 10.1617'/>
+		</time>
+		<time value='94'>
+			<transform rot='0.714301 0.739834 2.43647 ' pivot='4.65802 4.2908 10.1206'/>
+		</time>
+		<time value='95'>
+			<transform rot='0.835788 0.839664 2.46126 ' pivot='4.91354 3.30187 10.2071'/>
+		</time>
+		<time value='96'>
+			<transform rot='1.08872 0.959604 2.58718 ' pivot='5.12859 1.98516 9.48276'/>
+		</time>
+		<time value='97'>
+			<transform rot='1.41234 1.06115 2.79468 ' pivot='5.30616 0.624061 9.05886'/>
+		</time>
+		<time value='98'>
+			<transform rot='1.82956 1.12407 3.10583 ' pivot='5.45305 -0.713353 8.94033'/>
+		</time>
+		<time value='99'>
+			<transform rot='2.30263 1.12502 -2.80108 ' pivot='5.57754 -1.959 9.11676'/>
+		</time>
+		<time value='100'>
+			<transform rot='2.72587 1.0588 -2.46597 ' pivot='5.68882 -3.04828 9.56239'/>
+		</time>
+		<time value='101'>
+			<transform rot='2.30263 1.12502 -2.80108 ' pivot='5.57754 -1.959 9.11676'/>
+		</time>
+		<time value='102'>
+			<transform rot='1.82956 1.12407 3.10583 ' pivot='5.45305 -0.713353 8.94033'/>
+		</time>
+		<time value='103'>
+			<transform rot='1.41234 1.06115 2.79468 ' pivot='5.30616 0.624064 9.05886'/>
+		</time>
+		<time value='104'>
+			<transform rot='1.08872 0.959602 2.58718 ' pivot='5.12858 1.98517 9.48276'/>
+		</time>
+		<time value='105'>
+			<transform rot='0.835788 0.839664 2.46126 ' pivot='4.91353 3.30187 10.2071'/>
+		</time>
+		<time value='106'>
+			<transform rot='0.714301 0.739834 2.43647 ' pivot='4.65802 4.29079 10.1206'/>
+		</time>
+		<time value='107'>
+			<transform rot='0.598734 0.643554 2.42206 ' pivot='4.41353 5.20631 10.1617'/>
+		</time>
+		<time value='108'>
+			<transform rot='0.485754 0.551606 2.41487 ' pivot='4.18664 6.03243 10.3161'/>
+		</time>
+		<time value='109'>
+			<transform rot='0.373256 0.464606 2.41293 ' pivot='3.98233 6.75577 10.5673'/>
+		</time>
+		<time value='110'>
+			<transform rot='0.259873 0.383048 2.41482 ' pivot='3.80375 7.36589 10.8972'/>
+		</time>
+	</anim>
+	<anim name='Bone13'>
+		<time value='90'>
+			<transform rot='1.5816 0.407701 1.97875 ' pivot='4.25519 7.50201 9.81712'/>
+		</time>
+		<time value='91'>
+			<transform rot='1.64681 0.525757 1.95955 ' pivot='4.42777 6.72725 9.47658'/>
+		</time>
+		<time value='92'>
+			<transform rot='1.70557 0.647526 1.93926 ' pivot='4.62564 5.8381 9.23975'/>
+		</time>
+		<time value='93'>
+			<transform rot='1.75713 0.772576 1.91645 ' pivot='4.84438 4.84893 9.12458'/>
+		</time>
+		<time value='94'>
+			<transform rot='1.79983 0.900468 1.88878 ' pivot='5.07767 3.77694 9.14657'/>
+		</time>
+		<time value='95'>
+			<transform rot='1.8299 1.03071 1.85191 ' pivot='5.31759 2.64179 9.31827'/>
+		</time>
+		<time value='96'>
+			<transform rot='1.95133 1.22115 1.88912 ' pivot='5.48263 1.13657 8.74556'/>
+		</time>
+		<time value='97'>
+			<transform rot='2.20727 1.41066 2.07035 ' pivot='5.60779 -0.374553 8.51049'/>
+		</time>
+		<time value='98'>
+			<transform rot='-2.10613 1.49692 -2.30911 ' pivot='5.70168 -1.8166 8.60876'/>
+		</time>
+		<time value='99'>
+			<transform rot='-1.41492 1.31669 -1.67583 ' pivot='5.77425 -3.1169 9.01938'/>
+		</time>
+		<time value='100'>
+			<transform rot='-1.27231 1.1178 -1.58327 ' pivot='5.83607 -4.20879 9.70534'/>
+		</time>
+		<time value='101'>
+			<transform rot='-1.41492 1.31669 -1.67583 ' pivot='5.77425 -3.1169 9.01938'/>
+		</time>
+		<time value='102'>
+			<transform rot='-2.10613 1.49692 -2.30911 ' pivot='5.70168 -1.8166 8.60876'/>
+		</time>
+		<time value='103'>
+			<transform rot='2.20727 1.41066 2.07035 ' pivot='5.60778 -0.37455 8.51049'/>
+		</time>
+		<time value='104'>
+			<transform rot='1.95133 1.22115 1.88912 ' pivot='5.48263 1.13658 8.74556'/>
+		</time>
+		<time value='105'>
+			<transform rot='1.8299 1.03071 1.85191 ' pivot='5.31759 2.64179 9.31827'/>
+		</time>
+		<time value='106'>
+			<transform rot='1.79983 0.900469 1.88878 ' pivot='5.07768 3.77694 9.14657'/>
+		</time>
+		<time value='107'>
+			<transform rot='1.75713 0.772577 1.91645 ' pivot='4.84438 4.84892 9.12458'/>
+		</time>
+		<time value='108'>
+			<transform rot='1.70557 0.647525 1.93926 ' pivot='4.62564 5.8381 9.23976'/>
+		</time>
+		<time value='109'>
+			<transform rot='1.64681 0.525757 1.95955 ' pivot='4.42777 6.72725 9.47658'/>
+		</time>
+		<time value='110'>
+			<transform rot='1.5816 0.407701 1.97875 ' pivot='4.25519 7.50201 9.81712'/>
+		</time>
+	</anim>
+	<anim name='Bone14'>
+		<time value='90'>
+			<transform rot='1.68635 0.375919 2.25673 ' pivot='4.02196 8.04164 9.56322'/>
+		</time>
+		<time value='91'>
+			<transform rot='1.78393 0.473011 2.24839 ' pivot='4.21783 7.2398 9.1552'/>
+		</time>
+		<time value='92'>
+			<transform rot='1.87905 0.575217 2.2432 ' pivot='4.44168 6.31456 8.85348'/>
+		</time>
+		<time value='93'>
+			<transform rot='1.97286 0.682072 2.24198 ' pivot='4.68901 5.28038 8.67762'/>
+		</time>
+		<time value='94'>
+			<transform rot='2.06713 0.793076 2.24606 ' pivot='4.95329 4.15482 8.64477'/>
+		</time>
+		<time value='95'>
+			<transform rot='2.16469 0.907676 2.25788 ' pivot='5.22624 2.95814 8.76906'/>
+		</time>
+		<time value='96'>
+			<transform rot='2.3983 1.05722 2.3801 ' pivot='5.41398 1.34492 8.14395'/>
+		</time>
+		<time value='97'>
+			<transform rot='2.7459 1.18963 2.62713 ' pivot='5.55887 -0.284925 7.87832'/>
+		</time>
+		<time value='98'>
+			<transform rot='-2.97782 1.27102 3.09582 ' pivot='5.66987 -1.85156 7.97014'/>
+		</time>
+		<time value='99'>
+			<transform rot='-2.30446 1.25109 -2.59574 ' pivot='5.75737 -3.27699 8.39958'/>
+		</time>
+		<time value='100'>
+			<transform rot='-1.82908 1.1392 -2.19364 ' pivot='5.83258 -4.48904 9.12957'/>
+		</time>
+		<time value='101'>
+			<transform rot='-2.30445 1.25109 -2.59574 ' pivot='5.75737 -3.27699 8.39958'/>
+		</time>
+		<time value='102'>
+			<transform rot='-2.97782 1.27102 3.09582 ' pivot='5.66987 -1.85156 7.97015'/>
+		</time>
+		<time value='103'>
+			<transform rot='2.7459 1.18963 2.62713 ' pivot='5.55887 -0.284921 7.87832'/>
+		</time>
+		<time value='104'>
+			<transform rot='2.3983 1.05722 2.3801 ' pivot='5.41397 1.34493 8.14394'/>
+		</time>
+		<time value='105'>
+			<transform rot='2.16469 0.907676 2.25788 ' pivot='5.22624 2.95814 8.76906'/>
+		</time>
+		<time value='106'>
+			<transform rot='2.06713 0.793076 2.24606 ' pivot='4.9533 4.15481 8.64477'/>
+		</time>
+		<time value='107'>
+			<transform rot='1.97286 0.682073 2.24198 ' pivot='4.68902 5.28037 8.67762'/>
+		</time>
+		<time value='108'>
+			<transform rot='1.87905 0.575217 2.2432 ' pivot='4.44168 6.31456 8.85348'/>
+		</time>
+		<time value='109'>
+			<transform rot='1.78393 0.47301 2.24839 ' pivot='4.21783 7.2398 9.1552'/>
+		</time>
+		<time value='110'>
+			<transform rot='1.68635 0.375919 2.25673 ' pivot='4.02196 8.04164 9.56322'/>
+		</time>
+	</anim>
+	<anim name='Bone15'>
+		<time value='90'>
+			<transform rot='1.78088 0.332352 2.52831 ' pivot='3.65019 8.49584 9.33155'/>
+		</time>
+		<time value='91'>
+			<transform rot='1.90065 0.401877 2.52277 ' pivot='3.86567 7.67744 8.86773'/>
+		</time>
+		<time value='92'>
+			<transform rot='2.01897 0.477805 2.52035 ' pivot='4.11189 6.72878 8.51019'/>
+		</time>
+		<time value='93'>
+			<transform rot='2.13681 0.559664 2.52238 ' pivot='4.38438 5.66397 8.27982'/>
+		</time>
+		<time value='94'>
+			<transform rot='2.25572 0.646843 2.53052 ' pivot='4.67652 4.50041 8.19515'/>
+		</time>
+		<time value='95'>
+			<transform rot='2.37805 0.738569 2.54714 ' pivot='4.97986 3.25845 8.27177'/>
+		</time>
+		<time value='96'>
+			<transform rot='2.6135 0.846915 2.64255 ' pivot='5.18958 1.55883 7.59433'/>
+		</time>
+		<time value='97'>
+			<transform rot='2.89249 0.943399 2.79342 ' pivot='5.35452 -0.169415 7.29259'/>
+		</time>
+		<time value='98'>
+			<transform rot='-3.05287 1.01475 3.01423 ' pivot='5.48372 -1.84303 7.36726'/>
+		</time>
+		<time value='99'>
+			<transform rot='-2.66186 1.04397 -2.98465 ' pivot='5.58787 -3.37995 7.80053'/>
+		</time>
+		<time value='100'>
+			<transform rot='-2.26483 1.01872 -2.68471 ' pivot='5.67859 -4.70344 8.55641'/>
+		</time>
+		<time value='101'>
+			<transform rot='-2.66186 1.04397 -2.98465 ' pivot='5.58787 -3.37995 7.80054'/>
+		</time>
+		<time value='102'>
+			<transform rot='-3.05287 1.01475 3.01423 ' pivot='5.48372 -1.84303 7.36727'/>
+		</time>
+		<time value='103'>
+			<transform rot='2.89249 0.943398 2.79342 ' pivot='5.35452 -0.169411 7.29258'/>
+		</time>
+		<time value='104'>
+			<transform rot='2.6135 0.846914 2.64255 ' pivot='5.18957 1.55884 7.59433'/>
+		</time>
+		<time value='105'>
+			<transform rot='2.37805 0.738569 2.54714 ' pivot='4.97986 3.25845 8.27176'/>
+		</time>
+		<time value='106'>
+			<transform rot='2.25572 0.646844 2.53052 ' pivot='4.67653 4.50041 8.19516'/>
+		</time>
+		<time value='107'>
+			<transform rot='2.13681 0.559665 2.52238 ' pivot='4.38438 5.66396 8.27982'/>
+		</time>
+		<time value='108'>
+			<transform rot='2.01897 0.477804 2.52035 ' pivot='4.11189 6.72878 8.51019'/>
+		</time>
+		<time value='109'>
+			<transform rot='1.90065 0.401877 2.52277 ' pivot='3.86567 7.67744 8.86773'/>
+		</time>
+		<time value='110'>
+			<transform rot='1.78088 0.332352 2.52831 ' pivot='3.65019 8.49584 9.33155'/>
+		</time>
+	</anim>
+	<anim name='Bone32'>
+		<time value='90'>
+			<transform rot='-2.67308 -0.469223 0.722013 ' pivot='-1.76777 1.45314 14.4224'/>
+		</time>
+		<time value='91'>
+			<transform rot='-2.57618 -0.602516 0.665305 ' pivot='-1.81669 1.33895 14.7861'/>
+		</time>
+		<time value='92'>
+			<transform rot='-2.45456 -0.727139 0.577191 ' pivot='-1.86534 1.22361 15.1456'/>
+		</time>
+		<time value='93'>
+			<transform rot='-2.29659 -0.837011 0.447585 ' pivot='-1.9137 1.10726 15.5007'/>
+		</time>
+		<time value='94'>
+			<transform rot='-2.09109 -0.92312 0.266638 ' pivot='-1.96176 0.990089 15.8515'/>
+		</time>
+		<time value='95'>
+			<transform rot='-1.83717 -0.973878 0.0346448 ' pivot='-2.00948 0.872244 16.198'/>
+		</time>
+		<time value='96'>
+			<transform rot='-1.68405 -0.966912 -0.132092 ' pivot='-1.96176 0.990091 15.8515'/>
+		</time>
+		<time value='97'>
+			<transform rot='-1.53984 -0.941785 -0.293504 ' pivot='-1.9137 1.10727 15.5007'/>
+		</time>
+		<time value='98'>
+			<transform rot='-1.4126 -0.900094 -0.441288 ' pivot='-1.86534 1.22361 15.1456'/>
+		</time>
+		<time value='99'>
+			<transform rot='-1.30625 -0.844343 -0.571307 ' pivot='-1.81669 1.33895 14.7861'/>
+		</time>
+		<time value='100'>
+			<transform rot='-1.22103 -0.777225 -0.683091 ' pivot='-1.76777 1.45314 14.4224'/>
+		</time>
+		<time value='101'>
+			<transform rot='-1.30625 -0.844343 -0.571306 ' pivot='-1.81669 1.33895 14.7861'/>
+		</time>
+		<time value='102'>
+			<transform rot='-1.41261 -0.900094 -0.441288 ' pivot='-1.86534 1.22361 15.1456'/>
+		</time>
+		<time value='103'>
+			<transform rot='-1.53984 -0.941784 -0.293505 ' pivot='-1.9137 1.10726 15.5007'/>
+		</time>
+		<time value='104'>
+			<transform rot='-1.68405 -0.966911 -0.132091 ' pivot='-1.96176 0.990089 15.8515'/>
+		</time>
+		<time value='105'>
+			<transform rot='-1.83717 -0.973878 0.0346448 ' pivot='-2.00948 0.872244 16.198'/>
+		</time>
+		<time value='106'>
+			<transform rot='-2.09109 -0.923121 0.266638 ' pivot='-1.96176 0.990091 15.8515'/>
+		</time>
+		<time value='107'>
+			<transform rot='-2.29659 -0.837011 0.447585 ' pivot='-1.9137 1.10727 15.5007'/>
+		</time>
+		<time value='108'>
+			<transform rot='-2.45456 -0.727139 0.57719 ' pivot='-1.86534 1.22361 15.1456'/>
+		</time>
+		<time value='109'>
+			<transform rot='-2.57618 -0.602516 0.665304 ' pivot='-1.81669 1.33895 14.7861'/>
+		</time>
+		<time value='110'>
+			<transform rot='-2.67308 -0.469223 0.722013 ' pivot='-1.76777 1.45314 14.4224'/>
+		</time>
+	</anim>
+	<anim name='Bone25'>
+		<time value='90'>
+			<transform rot='-2.59027 -0.675147 0.567033 ' pivot='-4.35433 -0.824674 12.6751'/>
+		</time>
+		<time value='91'>
+			<transform rot='-2.4723 -0.80078 0.501429 ' pivot='-4.32143 -0.626378 12.5962'/>
+		</time>
+		<time value='92'>
+			<transform rot='-2.32211 -0.91782 0.392499 ' pivot='-4.28452 -0.351672 12.5769'/>
+		</time>
+		<time value='93'>
+			<transform rot='-2.12068 -1.01796 0.222657 ' pivot='-4.24658 -0.0127044 12.631'/>
+		</time>
+		<time value='94'>
+			<transform rot='-1.85165 -1.08836 -0.0232403 ' pivot='-4.21077 0.375787 12.7699'/>
+		</time>
+		<time value='95'>
+			<transform rot='-1.52774 -1.1137 -0.331367 ' pivot='-4.18022 0.797008 13.0021'/>
+		</time>
+		<time value='96'>
+			<transform rot='-1.36275 -1.10261 -0.516146 ' pivot='-4.1369 1.27909 12.6708'/>
+		</time>
+		<time value='97'>
+			<transform rot='-1.21785 -1.07539 -0.687192 ' pivot='-4.08996 1.765 12.3761'/>
+		</time>
+		<time value='98'>
+			<transform rot='-1.10073 -1.03488 -0.8365 ' pivot='-4.03699 2.2494 12.1184'/>
+		</time>
+		<time value='99'>
+			<transform rot='-1.01273 -0.984323 -0.962399 ' pivot='-3.97577 2.72684 11.8975'/>
+		</time>
+		<time value='100'>
+			<transform rot='-0.951307 -0.926638 -1.06708 ' pivot='-3.90434 3.19184 11.7125'/>
+		</time>
+		<time value='101'>
+			<transform rot='-1.01273 -0.984324 -0.962398 ' pivot='-3.97577 2.72684 11.8975'/>
+		</time>
+		<time value='102'>
+			<transform rot='-1.10073 -1.03488 -0.836499 ' pivot='-4.03699 2.2494 12.1184'/>
+		</time>
+		<time value='103'>
+			<transform rot='-1.21785 -1.07539 -0.687192 ' pivot='-4.08996 1.765 12.3761'/>
+		</time>
+		<time value='104'>
+			<transform rot='-1.36275 -1.10261 -0.516145 ' pivot='-4.1369 1.27909 12.6708'/>
+		</time>
+		<time value='105'>
+			<transform rot='-1.52774 -1.1137 -0.331367 ' pivot='-4.18022 0.797009 13.0021'/>
+		</time>
+		<time value='106'>
+			<transform rot='-1.85165 -1.08836 -0.0232403 ' pivot='-4.21077 0.375791 12.7699'/>
+		</time>
+		<time value='107'>
+			<transform rot='-2.12068 -1.01796 0.222658 ' pivot='-4.24658 -0.0127023 12.631'/>
+		</time>
+		<time value='108'>
+			<transform rot='-2.32211 -0.91782 0.392498 ' pivot='-4.28452 -0.351671 12.5769'/>
+		</time>
+		<time value='109'>
+			<transform rot='-2.4723 -0.80078 0.501429 ' pivot='-4.32143 -0.626379 12.5962'/>
+		</time>
+		<time value='110'>
+			<transform rot='-2.59027 -0.675147 0.567033 ' pivot='-4.35433 -0.824674 12.6751'/>
+		</time>
+	</anim>
+	<anim name='Bone26'>
+		<time value='90'>
+			<transform rot='-2.28177 -1.13838 0.943672 ' pivot='-6.52716 -2.20832 10.6126'/>
+		</time>
+		<time value='91'>
+			<transform rot='-2.27237 -1.23589 0.950199 ' pivot='-6.33588 -1.73062 10.2272'/>
+		</time>
+		<time value='92'>
+			<transform rot='-2.26303 -1.3335 0.945001 ' pivot='-6.13695 -1.11854 9.95583'/>
+		</time>
+		<time value='93'>
+			<transform rot='-2.22804 -1.42986 0.902961 ' pivot='-5.93662 -0.395347 9.82262'/>
+		</time>
+		<time value='94'>
+			<transform rot='-1.95292 -1.5215 0.610478 ' pivot='-5.74132 0.411364 9.84658'/>
+		</time>
+		<time value='95'>
+			<transform rot='0.218753 -1.51654 -1.5878 ' pivot='-5.55741 1.27083 10.0409'/>
+		</time>
+		<time value='96'>
+			<transform rot='0.335472 -1.50103 -1.75167 ' pivot='-5.43205 2.01403 9.72595'/>
+		</time>
+		<time value='97'>
+			<transform rot='0.319907 -1.48663 -1.7896 ' pivot='-5.30265 2.76017 9.47288'/>
+		</time>
+		<time value='98'>
+			<transform rot='0.223035 -1.47405 -1.75148 ' pivot='-5.16609 3.50022 9.28113'/>
+		</time>
+		<time value='99'>
+			<transform rot='0.0656775 -1.46219 -1.65694 ' pivot='-5.01958 4.22542 9.149'/>
+		</time>
+		<time value='100'>
+			<transform rot='-0.137235 -1.44868 -1.51964 ' pivot='-4.86088 4.9274 9.0738'/>
+		</time>
+		<time value='101'>
+			<transform rot='0.0656795 -1.46219 -1.65694 ' pivot='-5.01958 4.22541 9.14899'/>
+		</time>
+		<time value='102'>
+			<transform rot='0.223039 -1.47405 -1.75148 ' pivot='-5.16609 3.50022 9.28113'/>
+		</time>
+		<time value='103'>
+			<transform rot='0.3199 -1.48663 -1.78959 ' pivot='-5.30266 2.76017 9.47289'/>
+		</time>
+		<time value='104'>
+			<transform rot='0.335468 -1.50103 -1.75166 ' pivot='-5.43205 2.01403 9.72596'/>
+		</time>
+		<time value='105'>
+			<transform rot='0.218752 -1.51654 -1.5878 ' pivot='-5.55741 1.27083 10.0409'/>
+		</time>
+		<time value='106'>
+			<transform rot='-1.95294 -1.5215 0.61049 ' pivot='-5.74132 0.411367 9.84658'/>
+		</time>
+		<time value='107'>
+			<transform rot='-2.22804 -1.42986 0.902966 ' pivot='-5.93662 -0.395346 9.82261'/>
+		</time>
+		<time value='108'>
+			<transform rot='-2.26303 -1.3335 0.945 ' pivot='-6.13695 -1.11854 9.95583'/>
+		</time>
+		<time value='109'>
+			<transform rot='-2.27237 -1.23589 0.950198 ' pivot='-6.33588 -1.73062 10.2272'/>
+		</time>
+		<time value='110'>
+			<transform rot='-2.28177 -1.13838 0.943672 ' pivot='-6.52716 -2.20832 10.6126'/>
+		</time>
+	</anim>
+	<anim name='Bone41'>
+		<time value='90'>
+			<transform rot='0.322358 -0.0299995 -2.85616 ' pivot='-6.9341 -2.80877 9.03771'/>
+		</time>
+		<time value='91'>
+			<transform rot='0.260246 0.0452673 -2.84139 ' pivot='-6.64762 -2.206 8.58918'/>
+		</time>
+		<time value='92'>
+			<transform rot='0.199024 0.121521 -2.84272 ' pivot='-6.35596 -1.46055 8.2702'/>
+		</time>
+		<time value='93'>
+			<transform rot='0.135882 0.195273 -2.86032 ' pivot='-6.0678 -0.598363 8.10568'/>
+		</time>
+		<time value='94'>
+			<transform rot='0.0682585 0.262984 -2.894 ' pivot='-5.79188 0.350269 8.11453'/>
+		</time>
+		<time value='95'>
+			<transform rot='-0.00574411 0.321089 -2.94304 ' pivot='-5.53668 1.35223 8.30909'/>
+		</time>
+		<time value='96'>
+			<transform rot='-0.0194431 0.332207 -2.9948 ' pivot='-5.3918 2.11943 7.99576'/>
+		</time>
+		<time value='97'>
+			<transform rot='-0.0343141 0.335564 -3.05312 ' pivot='-5.25325 2.88799 7.74444'/>
+		</time>
+		<time value='98'>
+			<transform rot='-0.0495224 0.330292 -3.11645 ' pivot='-5.11911 3.64951 7.55434'/>
+		</time>
+		<time value='99'>
+			<transform rot='-0.064017 0.315783 3.10014 ' pivot='-4.98753 4.39619 7.42386'/>
+		</time>
+		<time value='100'>
+			<transform rot='-0.0766661 0.291726 3.03208 ' pivot='-4.85693 5.12092 7.35077'/>
+		</time>
+		<time value='101'>
+			<transform rot='-0.0640165 0.315783 3.10014 ' pivot='-4.98753 4.39619 7.42386'/>
+		</time>
+		<time value='102'>
+			<transform rot='-0.0495217 0.330292 -3.11645 ' pivot='-5.11911 3.64951 7.55434'/>
+		</time>
+		<time value='103'>
+			<transform rot='-0.0343149 0.335564 -3.05312 ' pivot='-5.25326 2.88799 7.74444'/>
+		</time>
+		<time value='104'>
+			<transform rot='-0.0194438 0.332207 -2.99479 ' pivot='-5.3918 2.11943 7.99576'/>
+		</time>
+		<time value='105'>
+			<transform rot='-0.00574412 0.321089 -2.94304 ' pivot='-5.53668 1.35223 8.30909'/>
+		</time>
+		<time value='106'>
+			<transform rot='0.0682594 0.262984 -2.894 ' pivot='-5.79187 0.350272 8.11453'/>
+		</time>
+		<time value='107'>
+			<transform rot='0.135882 0.195273 -2.86032 ' pivot='-6.06779 -0.598363 8.10568'/>
+		</time>
+		<time value='108'>
+			<transform rot='0.199024 0.121521 -2.84272 ' pivot='-6.35596 -1.46054 8.2702'/>
+		</time>
+		<time value='109'>
+			<transform rot='0.260246 0.0452672 -2.84139 ' pivot='-6.64762 -2.206 8.58918'/>
+		</time>
+		<time value='110'>
+			<transform rot='0.322358 -0.0299995 -2.85616 ' pivot='-6.9341 -2.80877 9.03771'/>
+		</time>
+	</anim>
+	<anim name='Bone40'>
+		<time value='90'>
+			<transform rot='0.504686 0.85812 -2.43406 ' pivot='-6.31992 -2.62855 9.0185'/>
+		</time>
+		<time value='91'>
+			<transform rot='0.460236 0.95177 -2.45381 ' pivot='-6.03652 -2.01683 8.61815'/>
+		</time>
+		<time value='92'>
+			<transform rot='0.405623 1.04486 -2.49599 ' pivot='-5.7485 -1.27339 8.34782'/>
+		</time>
+		<time value='93'>
+			<transform rot='0.327236 1.13441 -2.57318 ' pivot='-5.46429 -0.423988 8.22993'/>
+		</time>
+		<time value='94'>
+			<transform rot='0.202345 1.21583 -2.70686 ' pivot='-5.19239 0.501806 8.281'/>
+		</time>
+		<time value='95'>
+			<transform rot='-0.00209648 1.28107 -2.92865 ' pivot='-4.94099 1.47209 8.51119'/>
+		</time>
+		<time value='96'>
+			<transform rot='-0.0485998 1.29212 -3.02065 ' pivot='-4.79296 2.20797 8.2046'/>
+		</time>
+		<time value='97'>
+			<transform rot='-0.100451 1.29479 -3.12397 ' pivot='-4.65097 2.94141 7.95531'/>
+		</time>
+		<time value='98'>
+			<transform rot='-0.150605 1.28821 3.05264 ' pivot='-4.51355 3.66474 7.76202'/>
+		</time>
+		<time value='99'>
+			<transform rot='-0.191519 1.27202 2.95145 ' pivot='-4.37936 4.37097 7.62273'/>
+		</time>
+		<time value='100'>
+			<transform rot='-0.217937 1.24635 2.86203 ' pivot='-4.2473 5.05389 7.53494'/>
+		</time>
+		<time value='101'>
+			<transform rot='-0.191518 1.27202 2.95145 ' pivot='-4.37936 4.37097 7.62273'/>
+		</time>
+		<time value='102'>
+			<transform rot='-0.150603 1.28821 3.05264 ' pivot='-4.51355 3.66474 7.76202'/>
+		</time>
+		<time value='103'>
+			<transform rot='-0.100454 1.29479 -3.12398 ' pivot='-4.65097 2.94142 7.95532'/>
+		</time>
+		<time value='104'>
+			<transform rot='-0.0486022 1.29212 -3.02065 ' pivot='-4.79296 2.20797 8.20461'/>
+		</time>
+		<time value='105'>
+			<transform rot='-0.00209653 1.28107 -2.92865 ' pivot='-4.94099 1.47209 8.51119'/>
+		</time>
+		<time value='106'>
+			<transform rot='0.202347 1.21583 -2.70686 ' pivot='-5.19238 0.501808 8.281'/>
+		</time>
+		<time value='107'>
+			<transform rot='0.327237 1.13441 -2.57318 ' pivot='-5.46429 -0.423988 8.22993'/>
+		</time>
+		<time value='108'>
+			<transform rot='0.405622 1.04486 -2.496 ' pivot='-5.7485 -1.27338 8.34783'/>
+		</time>
+		<time value='109'>
+			<transform rot='0.460235 0.95177 -2.45381 ' pivot='-6.03652 -2.01683 8.61815'/>
+		</time>
+		<time value='110'>
+			<transform rot='0.504686 0.85812 -2.43406 ' pivot='-6.31992 -2.62855 9.0185'/>
+		</time>
+	</anim>
+	<anim name='Bone39'>
+		<time value='90'>
+			<transform rot='2.71788 0.689391 0.0331766 ' pivot='-6.00636 -2.36038 9.49594'/>
+		</time>
+		<time value='91'>
+			<transform rot='2.81553 0.629623 0.108317 ' pivot='-5.75362 -1.78439 9.13208'/>
+		</time>
+		<time value='92'>
+			<transform rot='2.90342 0.564375 0.161542 ' pivot='-5.49547 -1.08278 8.89357'/>
+		</time>
+		<time value='93'>
+			<transform rot='2.98483 0.498018 0.195193 ' pivot='-5.23952 -0.28042 8.80182'/>
+		</time>
+		<time value='94'>
+			<transform rot='3.06302 0.434426 0.212063 ' pivot='-4.99347 0.594177 8.87268'/>
+		</time>
+		<time value='95'>
+			<transform rot='3.14075 0.376994 0.215057 ' pivot='-4.76478 1.51019 9.11591'/>
+		</time>
+		<time value='96'>
+			<transform rot='-3.12877 0.365603 0.172652 ' pivot='-4.62064 2.22892 8.81128'/>
+		</time>
+		<time value='97'>
+			<transform rot='-3.11385 0.361813 0.124505 ' pivot='-4.47903 2.94444 8.56245'/>
+		</time>
+		<time value='98'>
+			<transform rot='-3.09825 0.366487 0.0717032 ' pivot='-4.33829 3.64911 8.36802'/>
+		</time>
+		<time value='99'>
+			<transform rot='-3.0827 0.380267 0.0153823 ' pivot='-4.19697 4.33586 8.2258'/>
+		</time>
+		<time value='100'>
+			<transform rot='-3.06807 0.403537 -0.0433035 ' pivot='-4.05395 4.99838 8.13304'/>
+		</time>
+		<time value='101'>
+			<transform rot='-3.0827 0.380267 0.0153822 ' pivot='-4.19697 4.33586 8.22579'/>
+		</time>
+		<time value='102'>
+			<transform rot='-3.09825 0.366487 0.0717032 ' pivot='-4.33829 3.6491 8.36801'/>
+		</time>
+		<time value='103'>
+			<transform rot='-3.11385 0.361813 0.124506 ' pivot='-4.47904 2.94445 8.56246'/>
+		</time>
+		<time value='104'>
+			<transform rot='-3.12876 0.365603 0.172653 ' pivot='-4.62064 2.22892 8.81128'/>
+		</time>
+		<time value='105'>
+			<transform rot='3.14075 0.376993 0.215057 ' pivot='-4.76478 1.51019 9.11591'/>
+		</time>
+		<time value='106'>
+			<transform rot='3.06302 0.434426 0.212061 ' pivot='-4.99346 0.594179 8.87268'/>
+		</time>
+		<time value='107'>
+			<transform rot='2.98482 0.498018 0.195192 ' pivot='-5.23951 -0.280419 8.80182'/>
+		</time>
+		<time value='108'>
+			<transform rot='2.90342 0.564375 0.161542 ' pivot='-5.49547 -1.08278 8.89357'/>
+		</time>
+		<time value='109'>
+			<transform rot='2.81553 0.629623 0.108317 ' pivot='-5.75362 -1.78439 9.13208'/>
+		</time>
+		<time value='110'>
+			<transform rot='2.71788 0.689391 0.0331766 ' pivot='-6.00636 -2.36038 9.49594'/>
+		</time>
+	</anim>
+	<anim name='Bone38'>
+		<time value='90'>
+			<transform rot='-2.43219 -0.212251 -2.00303 ' pivot='-6.79178 -2.22977 9.80775'/>
+		</time>
+		<time value='91'>
+			<transform rot='-2.41626 -0.115949 -1.99038 ' pivot='-6.55672 -1.68986 9.41004'/>
+		</time>
+		<time value='92'>
+			<transform rot='-2.39894 -0.0198409 -1.98779 ' pivot='-6.3131 -1.01226 9.13372'/>
+		</time>
+		<time value='93'>
+			<transform rot='-2.38375 0.0755246 -1.99499 ' pivot='-6.06833 -0.221499 9.00371'/>
+		</time>
+		<time value='94'>
+			<transform rot='-2.37408 0.16948 -2.01212 ' pivot='-5.83007 0.653363 9.03928'/>
+		</time>
+		<time value='95'>
+			<transform rot='-2.3733 0.261111 -2.03966 ' pivot='-5.60583 1.58015 9.25341'/>
+		</time>
+		<time value='96'>
+			<transform rot='-2.37253 0.278182 -2.08682 ' pivot='-5.45865 2.33667 8.94276'/>
+		</time>
+		<time value='97'>
+			<transform rot='-2.37876 0.291332 -2.14202 ' pivot='-5.31036 3.09493 8.69438'/>
+		</time>
+		<time value='98'>
+			<transform rot='-2.39232 0.299464 -2.20433 ' pivot='-5.15866 3.8459 8.50741'/>
+		</time>
+		<time value='99'>
+			<transform rot='-2.41314 0.301438 -2.27248 ' pivot='-5.00152 4.581 8.37996'/>
+		</time>
+		<time value='100'>
+			<transform rot='-2.44076 0.29616 -2.34489 ' pivot='-4.83736 5.29228 8.30927'/>
+		</time>
+		<time value='101'>
+			<transform rot='-2.41314 0.301438 -2.27248 ' pivot='-5.00152 4.581 8.37996'/>
+		</time>
+		<time value='102'>
+			<transform rot='-2.39232 0.299464 -2.20433 ' pivot='-5.15866 3.84589 8.50741'/>
+		</time>
+		<time value='103'>
+			<transform rot='-2.37876 0.291332 -2.14202 ' pivot='-5.31037 3.09493 8.69439'/>
+		</time>
+		<time value='104'>
+			<transform rot='-2.37253 0.278182 -2.08682 ' pivot='-5.45866 2.33667 8.94277'/>
+		</time>
+		<time value='105'>
+			<transform rot='-2.3733 0.261111 -2.03966 ' pivot='-5.60583 1.58015 9.25341'/>
+		</time>
+		<time value='106'>
+			<transform rot='-2.37408 0.16948 -2.01212 ' pivot='-5.83007 0.653366 9.03927'/>
+		</time>
+		<time value='107'>
+			<transform rot='-2.38375 0.0755245 -1.99499 ' pivot='-6.06833 -0.221499 9.0037'/>
+		</time>
+		<time value='108'>
+			<transform rot='-2.39894 -0.0198405 -1.98779 ' pivot='-6.31309 -1.01225 9.13372'/>
+		</time>
+		<time value='109'>
+			<transform rot='-2.41626 -0.115949 -1.99038 ' pivot='-6.55672 -1.68986 9.41004'/>
+		</time>
+		<time value='110'>
+			<transform rot='-2.43219 -0.212251 -2.00303 ' pivot='-6.79178 -2.22977 9.80775'/>
+		</time>
+	</anim>
+	<anim name='Bone37'>
+		<time value='90'>
+			<transform rot='-0.914958 -0.661325 2.05269 ' pivot='-6.40258 -1.38611 9.60753'/>
+		</time>
+		<time value='91'>
+			<transform rot='-1.0278 -0.70451 2.13921 ' pivot='-6.17213 -0.8277 9.30008'/>
+		</time>
+		<time value='92'>
+			<transform rot='-1.1494 -0.739334 2.22341 ' pivot='-5.92824 -0.143434 9.11487'/>
+		</time>
+		<time value='93'>
+			<transform rot='-1.27595 -0.767924 2.30244 ' pivot='-5.67826 0.642229 9.07542'/>
+		</time>
+		<time value='94'>
+			<transform rot='-1.40413 -0.793032 2.37439 ' pivot='-5.42992 1.50042 9.19958'/>
+		</time>
+		<time value='95'>
+			<transform rot='-1.53158 -0.817663 2.43865 ' pivot='-5.19091 2.39927 9.49877'/>
+		</time>
+		<time value='96'>
+			<transform rot='-1.55619 -0.820754 2.40927 ' pivot='-5.00771 3.13156 9.20376'/>
+		</time>
+		<time value='97'>
+			<transform rot='-1.57332 -0.829332 2.3684 ' pivot='-4.81815 3.86078 8.96737'/>
+		</time>
+		<time value='98'>
+			<transform rot='-1.58143 -0.843645 2.31606 ' pivot='-4.62105 4.5778 8.7878'/>
+		</time>
+		<time value='99'>
+			<transform rot='-1.57867 -0.863547 2.25199 ' pivot='-4.41567 5.27417 8.66214'/>
+		</time>
+		<time value='100'>
+			<transform rot='-1.56279 -0.888469 2.17551 ' pivot='-4.20187 5.9423 8.58666'/>
+		</time>
+		<time value='101'>
+			<transform rot='-1.57867 -0.863547 2.25199 ' pivot='-4.41567 5.27417 8.66213'/>
+		</time>
+		<time value='102'>
+			<transform rot='-1.58143 -0.843644 2.31606 ' pivot='-4.62105 4.5778 8.78779'/>
+		</time>
+		<time value='103'>
+			<transform rot='-1.57332 -0.829333 2.3684 ' pivot='-4.81816 3.86078 8.96738'/>
+		</time>
+		<time value='104'>
+			<transform rot='-1.55619 -0.820754 2.40927 ' pivot='-5.00772 3.13156 9.20376'/>
+		</time>
+		<time value='105'>
+			<transform rot='-1.53158 -0.817664 2.43865 ' pivot='-5.19091 2.39927 9.49877'/>
+		</time>
+		<time value='106'>
+			<transform rot='-1.40413 -0.793031 2.37439 ' pivot='-5.42992 1.50042 9.19958'/>
+		</time>
+		<time value='107'>
+			<transform rot='-1.27595 -0.767924 2.30244 ' pivot='-5.67826 0.642229 9.07542'/>
+		</time>
+		<time value='108'>
+			<transform rot='-1.1494 -0.739335 2.22341 ' pivot='-5.92824 -0.143431 9.11487'/>
+		</time>
+		<time value='109'>
+			<transform rot='-1.0278 -0.704511 2.13921 ' pivot='-6.17213 -0.8277 9.30008'/>
+		</time>
+		<time value='110'>
+			<transform rot='-0.914958 -0.661325 2.05269 ' pivot='-6.40258 -1.38611 9.60753'/>
+		</time>
+	</anim>
+	<anim name='Bone27'>
+		<time value='90'>
+			<transform rot='-0.675921 -0.335586 -1.36664 ' pivot='-6.62059 -2.57237 9.2654'/>
+		</time>
+		<time value='91'>
+			<transform rot='-0.60344 -0.266794 -1.37292 ' pivot='-6.35088 -1.98488 8.85199'/>
+		</time>
+		<time value='92'>
+			<transform rot='-0.532332 -0.197881 -1.38553 ' pivot='-6.07534 -1.26091 8.56586'/>
+		</time>
+		<time value='93'>
+			<transform rot='-0.465311 -0.127502 -1.40403 ' pivot='-5.80216 -0.425926 8.43083'/>
+		</time>
+		<time value='94'>
+			<transform rot='-0.404998 -0.0546065 -1.42783 ' pivot='-5.53964 0.490495 8.46487'/>
+		</time>
+		<time value='95'>
+			<transform rot='-0.353863 0.021446 -1.45639 ' pivot='-5.29584 1.45606 8.67954'/>
+		</time>
+		<time value='96'>
+			<transform rot='-0.343839 0.035286 -1.50347 ' pivot='-5.14968 2.20635 8.36972'/>
+		</time>
+		<time value='97'>
+			<transform rot='-0.34157 0.0495521 -1.55682 ' pivot='-5.00761 2.95649 8.11993'/>
+		</time>
+		<time value='98'>
+			<transform rot='-0.347876 0.0635078 -1.61554 ' pivot='-4.86776 3.69823 7.92914'/>
+		</time>
+		<time value='99'>
+			<transform rot='-0.363324 0.0762336 -1.67861 ' pivot='-4.72844 4.42391 7.79551'/>
+		</time>
+		<time value='100'>
+			<transform rot='-0.388202 0.0867044 -1.74491 ' pivot='-4.58826 5.12656 7.71656'/>
+		</time>
+		<time value='101'>
+			<transform rot='-0.363324 0.0762333 -1.67861 ' pivot='-4.72845 4.42391 7.79551'/>
+		</time>
+		<time value='102'>
+			<transform rot='-0.347876 0.0635073 -1.61554 ' pivot='-4.86776 3.69823 7.92914'/>
+		</time>
+		<time value='103'>
+			<transform rot='-0.341571 0.049553 -1.55682 ' pivot='-5.00762 2.95649 8.11993'/>
+		</time>
+		<time value='104'>
+			<transform rot='-0.343839 0.0352866 -1.50347 ' pivot='-5.14969 2.20635 8.36973'/>
+		</time>
+		<time value='105'>
+			<transform rot='-0.353864 0.021446 -1.45639 ' pivot='-5.29584 1.45606 8.67954'/>
+		</time>
+		<time value='106'>
+			<transform rot='-0.404998 -0.0546074 -1.42783 ' pivot='-5.53963 0.490497 8.46487'/>
+		</time>
+		<time value='107'>
+			<transform rot='-0.465311 -0.127503 -1.40403 ' pivot='-5.80215 -0.425926 8.43083'/>
+		</time>
+		<time value='108'>
+			<transform rot='-0.532332 -0.197881 -1.38553 ' pivot='-6.07534 -1.26091 8.56586'/>
+		</time>
+		<time value='109'>
+			<transform rot='-0.60344 -0.266793 -1.37292 ' pivot='-6.35088 -1.98488 8.85199'/>
+		</time>
+		<time value='110'>
+			<transform rot='-0.675921 -0.335586 -1.36664 ' pivot='-6.62059 -2.57237 9.2654'/>
+		</time>
+	</anim>
+	<anim name='Bone21'>
+		<time value='90'>
+			<transform rot='-0.629082 -0.42507 -1.49255 ' pivot='-6.47233 -3.39343 9.57439'/>
+		</time>
+		<time value='91'>
+			<transform rot='-0.567837 -0.341941 -1.49151 ' pivot='-6.20506 -2.82639 9.10138'/>
+		</time>
+		<time value='92'>
+			<transform rot='-0.507152 -0.259734 -1.49639 ' pivot='-5.93833 -2.11959 8.75427'/>
+		</time>
+		<time value='93'>
+			<transform rot='-0.44971 -0.177473 -1.50661 ' pivot='-5.68003 -1.29828 8.55606'/>
+		</time>
+		<time value='94'>
+			<transform rot='-0.398009 -0.0943597 -1.52165 ' pivot='-5.43802 -0.391412 8.52414'/>
+		</time>
+		<time value='95'>
+			<transform rot='-0.354354 -0.00987368 -1.54105 ' pivot='-5.21974 0.569657 8.66992'/>
+		</time>
+		<time value='96'>
+			<transform rot='-0.34547 0.00861945 -1.57773 ' pivot='-5.11549 1.31756 8.34754'/>
+		</time>
+		<time value='97'>
+			<transform rot='-0.344002 0.0268539 -1.62045 ' pivot='-5.0209 2.06756 8.08501'/>
+		</time>
+		<time value='98'>
+			<transform rot='-0.350722 0.044294 -1.66835 ' pivot='-4.93311 2.81217 7.88198'/>
+		</time>
+		<time value='99'>
+			<transform rot='-0.366182 0.0602687 -1.72051 ' pivot='-4.84929 3.54435 7.73745'/>
+		</time>
+		<time value='100'>
+			<transform rot='-0.390688 0.0740342 -1.77588 ' pivot='-4.76676 4.25749 7.64984'/>
+		</time>
+		<time value='101'>
+			<transform rot='-0.366182 0.0602682 -1.72051 ' pivot='-4.84929 3.54435 7.73745'/>
+		</time>
+		<time value='102'>
+			<transform rot='-0.350722 0.0442938 -1.66835 ' pivot='-4.93311 2.81217 7.88198'/>
+		</time>
+		<time value='103'>
+			<transform rot='-0.344002 0.0268549 -1.62045 ' pivot='-5.0209 2.06756 8.08501'/>
+		</time>
+		<time value='104'>
+			<transform rot='-0.34547 0.00862083 -1.57773 ' pivot='-5.1155 1.31756 8.34754'/>
+		</time>
+		<time value='105'>
+			<transform rot='-0.354354 -0.00987365 -1.54105 ' pivot='-5.21974 0.569657 8.66992'/>
+		</time>
+		<time value='106'>
+			<transform rot='-0.39801 -0.0943613 -1.52165 ' pivot='-5.43802 -0.391409 8.52414'/>
+		</time>
+		<time value='107'>
+			<transform rot='-0.44971 -0.177474 -1.50661 ' pivot='-5.68003 -1.29828 8.55606'/>
+		</time>
+		<time value='108'>
+			<transform rot='-0.507152 -0.259734 -1.49639 ' pivot='-5.93833 -2.11959 8.75427'/>
+		</time>
+		<time value='109'>
+			<transform rot='-0.567837 -0.34194 -1.49151 ' pivot='-6.20506 -2.82639 9.10138'/>
+		</time>
+		<time value='110'>
+			<transform rot='-0.629082 -0.42507 -1.49255 ' pivot='-6.47233 -3.39343 9.57439'/>
+		</time>
+	</anim>
+	<anim name='Bone22'>
+		<time value='90'>
+			<transform rot='-0.701115 -0.26915 -1.28213 ' pivot='-6.07581 -8.4506 11.8706'/>
+		</time>
+		<time value='91'>
+			<transform rot='-0.621671 -0.214614 -1.2965 ' pivot='-5.78956 -8.05573 10.9685'/>
+		</time>
+		<time value='92'>
+			<transform rot='-0.544231 -0.158431 -1.31843 ' pivot='-5.53828 -7.48613 10.1843'/>
+		</time>
+		<time value='93'>
+			<transform rot='-0.47172 -0.0989849 -1.34733 ' pivot='-5.3285 -6.76773 9.53908'/>
+		</time>
+		<time value='94'>
+			<transform rot='-0.407034 -0.0351125 -1.38245 ' pivot='-5.16568 -5.92815 9.04877'/>
+		</time>
+		<time value='95'>
+			<transform rot='-0.352943 0.033755 -1.42301 ' pivot='-5.05416 -4.9958 8.7249'/>
+		</time>
+		<time value='96'>
+			<transform rot='-0.34304 0.0426186 -1.48295 ' pivot='-5.15411 -4.25029 8.29955'/>
+		</time>
+		<time value='97'>
+			<transform rot='-0.341188 0.052227 -1.54929 ' pivot='-5.29716 -3.49176 7.9355'/>
+		</time>
+		<time value='98'>
+			<transform rot='-0.348218 0.0615308 -1.621 ' pivot='-5.47493 -2.72411 7.63543'/>
+		</time>
+		<time value='99'>
+			<transform rot='-0.364659 0.0692618 -1.69696 ' pivot='-5.67832 -1.95156 7.40207'/>
+		</time>
+		<time value='100'>
+			<transform rot='-0.390689 0.0740337 -1.77588 ' pivot='-5.89761 -1.17908 7.23798'/>
+		</time>
+		<time value='101'>
+			<transform rot='-0.364659 0.0692614 -1.69696 ' pivot='-5.67831 -1.95156 7.40207'/>
+		</time>
+		<time value='102'>
+			<transform rot='-0.348218 0.0615306 -1.621 ' pivot='-5.47493 -2.72412 7.63543'/>
+		</time>
+		<time value='103'>
+			<transform rot='-0.341188 0.0522281 -1.54929 ' pivot='-5.29717 -3.49176 7.9355'/>
+		</time>
+		<time value='104'>
+			<transform rot='-0.34304 0.0426197 -1.48295 ' pivot='-5.15411 -4.25029 8.29954'/>
+		</time>
+		<time value='105'>
+			<transform rot='-0.352943 0.033755 -1.42301 ' pivot='-5.05416 -4.9958 8.7249'/>
+		</time>
+		<time value='106'>
+			<transform rot='-0.407034 -0.0351138 -1.38245 ' pivot='-5.16568 -5.92814 9.04878'/>
+		</time>
+		<time value='107'>
+			<transform rot='-0.47172 -0.0989861 -1.34733 ' pivot='-5.3285 -6.76773 9.53908'/>
+		</time>
+		<time value='108'>
+			<transform rot='-0.544231 -0.158431 -1.31843 ' pivot='-5.53828 -7.48612 10.1843'/>
+		</time>
+		<time value='109'>
+			<transform rot='-0.621671 -0.214614 -1.2965 ' pivot='-5.78956 -8.05573 10.9685'/>
+		</time>
+		<time value='110'>
+			<transform rot='-0.701115 -0.26915 -1.28213 ' pivot='-6.07581 -8.4506 11.8706'/>
+		</time>
+	</anim>
+	<anim name='Bone23'>
+		<time value='90'>
+			<transform rot='-0.700765 -0.270215 -1.28344 ' pivot='-6.47233 -3.39343 9.57439'/>
+		</time>
+		<time value='91'>
+			<transform rot='-0.622024 -0.213447 -1.29484 ' pivot='-6.20506 -2.82639 9.10138'/>
+		</time>
+		<time value='92'>
+			<transform rot='-0.544996 -0.155499 -1.31353 ' pivot='-5.93833 -2.11959 8.75427'/>
+		</time>
+		<time value='93'>
+			<transform rot='-0.472525 -0.0947488 -1.339 ' pivot='-5.68003 -1.29828 8.55606'/>
+		</time>
+		<time value='94'>
+			<transform rot='-0.40742 -0.0299745 -1.37053 ' pivot='-5.43802 -0.391413 8.52414'/>
+		</time>
+		<time value='95'>
+			<transform rot='-0.35237 0.0394982 -1.4074 ' pivot='-5.21974 0.569657 8.66992'/>
+		</time>
+		<time value='96'>
+			<transform rot='-0.34216 0.0494327 -1.46382 ' pivot='-5.11549 1.31756 8.34754'/>
+		</time>
+		<time value='97'>
+			<transform rot='-0.339917 0.0602229 -1.52669 ' pivot='-5.0209 2.06756 8.08501'/>
+		</time>
+		<time value='98'>
+			<transform rot='-0.346496 0.0709251 -1.59499 ' pivot='-4.93311 2.81217 7.88198'/>
+		</time>
+		<time value='99'>
+			<transform rot='-0.362468 0.0803754 -1.66767 ' pivot='-4.84929 3.54435 7.73745'/>
+		</time>
+		<time value='100'>
+			<transform rot='-0.388077 0.0872861 -1.74348 ' pivot='-4.76676 4.25749 7.64984'/>
+		</time>
+		<time value='101'>
+			<transform rot='-0.362468 0.0803748 -1.66767 ' pivot='-4.84929 3.54435 7.73745'/>
+		</time>
+		<time value='102'>
+			<transform rot='-0.346495 0.0709247 -1.595 ' pivot='-4.93311 2.81217 7.88198'/>
+		</time>
+		<time value='103'>
+			<transform rot='-0.339917 0.0602241 -1.52669 ' pivot='-5.0209 2.06756 8.08501'/>
+		</time>
+		<time value='104'>
+			<transform rot='-0.342159 0.0494341 -1.46382 ' pivot='-5.1155 1.31756 8.34754'/>
+		</time>
+		<time value='105'>
+			<transform rot='-0.35237 0.0394982 -1.4074 ' pivot='-5.21974 0.569657 8.66992'/>
+		</time>
+		<time value='106'>
+			<transform rot='-0.407421 -0.0299761 -1.37053 ' pivot='-5.43802 -0.391409 8.52414'/>
+		</time>
+		<time value='107'>
+			<transform rot='-0.472525 -0.0947496 -1.339 ' pivot='-5.68003 -1.29828 8.55606'/>
+		</time>
+		<time value='108'>
+			<transform rot='-0.544996 -0.155499 -1.31353 ' pivot='-5.93833 -2.11959 8.75427'/>
+		</time>
+		<time value='109'>
+			<transform rot='-0.622024 -0.213447 -1.29484 ' pivot='-6.20506 -2.82639 9.10138'/>
+		</time>
+		<time value='110'>
+			<transform rot='-0.700765 -0.270215 -1.28344 ' pivot='-6.47233 -3.39343 9.57439'/>
+		</time>
+	</anim>
+	<anim name='Bone24'>
+		<time value='90'>
+			<transform rot='-0.737911 -0.0939339 -1.07977 ' pivot='-4.95149 -8.53956 11.0608'/>
+		</time>
+		<time value='91'>
+			<transform rot='-0.64975 -0.0704904 -1.09999 ' pivot='-4.72233 -8.06233 10.2809'/>
+		</time>
+		<time value='92'>
+			<transform rot='-0.563123 -0.0429694 -1.13135 ' pivot='-4.53867 -7.43956 9.61663'/>
+		</time>
+		<time value='93'>
+			<transform rot='-0.48115 -0.00889714 -1.17302 ' pivot='-4.40661 -6.69325 9.08285'/>
+		</time>
+		<time value='94'>
+			<transform rot='-0.407161 0.0335034 -1.22368 ' pivot='-4.33084 -5.84588 8.69102'/>
+		</time>
+		<time value='95'>
+			<transform rot='-0.344545 0.0850734 -1.28187 ' pivot='-4.31464 -4.92009 8.45004'/>
+		</time>
+		<time value='96'>
+			<transform rot='-0.335388 0.0849026 -1.36302 ' pivot='-4.52171 -4.21204 8.0724'/>
+		</time>
+		<time value='97'>
+			<transform rot='-0.334359 0.0866921 -1.45101 ' pivot='-4.77581 -3.48513 7.74988'/>
+		</time>
+		<time value='98'>
+			<transform rot='-0.342475 0.0889356 -1.54465 ' pivot='-5.0675 -2.7404 7.48739'/>
+		</time>
+		<time value='99'>
+			<transform rot='-0.360341 0.0898025 -1.64264 ' pivot='-5.38611 -1.97984 7.29039'/>
+		</time>
+		<time value='100'>
+			<transform rot='-0.388078 0.0872857 -1.74348 ' pivot='-5.7199 -1.20701 7.16443'/>
+		</time>
+		<time value='101'>
+			<transform rot='-0.360341 0.0898018 -1.64264 ' pivot='-5.38611 -1.97985 7.29039'/>
+		</time>
+		<time value='102'>
+			<transform rot='-0.342475 0.0889352 -1.54465 ' pivot='-5.0675 -2.74041 7.48739'/>
+		</time>
+		<time value='103'>
+			<transform rot='-0.33436 0.0866934 -1.45101 ' pivot='-4.77581 -3.48513 7.74987'/>
+		</time>
+		<time value='104'>
+			<transform rot='-0.335387 0.0849036 -1.36302 ' pivot='-4.5217 -4.21204 8.0724'/>
+		</time>
+		<time value='105'>
+			<transform rot='-0.344545 0.0850734 -1.28187 ' pivot='-4.31464 -4.92008 8.45005'/>
+		</time>
+		<time value='106'>
+			<transform rot='-0.407162 0.0335022 -1.22368 ' pivot='-4.33084 -5.84587 8.69103'/>
+		</time>
+		<time value='107'>
+			<transform rot='-0.481151 -0.00889785 -1.17302 ' pivot='-4.4066 -6.69325 9.08285'/>
+		</time>
+		<time value='108'>
+			<transform rot='-0.563123 -0.0429687 -1.13135 ' pivot='-4.53867 -7.43956 9.61663'/>
+		</time>
+		<time value='109'>
+			<transform rot='-0.64975 -0.0704898 -1.09999 ' pivot='-4.72233 -8.06233 10.2809'/>
+		</time>
+		<time value='110'>
+			<transform rot='-0.737911 -0.0939339 -1.07977 ' pivot='-4.95149 -8.53956 11.0608'/>
+		</time>
+	</anim>
+	<anim name='Bone19'>
+		<time value='90'>
+			<transform rot='-0.671514 -0.345517 -1.37984 ' pivot='-6.47233 -3.39344 9.57439'/>
+		</time>
+		<time value='91'>
+			<transform rot='-0.599791 -0.275803 -1.38654 ' pivot='-6.20506 -2.82639 9.10138'/>
+		</time>
+		<time value='92'>
+			<transform rot='-0.529523 -0.205941 -1.39954 ' pivot='-5.93833 -2.11959 8.75427'/>
+		</time>
+		<time value='93'>
+			<transform rot='-0.463435 -0.134631 -1.41838 ' pivot='-5.68003 -1.29828 8.55606'/>
+		</time>
+		<time value='94'>
+			<transform rot='-0.404153 -0.060872 -1.44248 ' pivot='-5.43802 -0.391413 8.52414'/>
+		</time>
+		<time value='95'>
+			<transform rot='-0.354143 0.0159282 -1.47132 ' pivot='-5.21974 0.569657 8.66992'/>
+		</time>
+		<time value='96'>
+			<transform rot='-0.344328 0.0299166 -1.51846 ' pivot='-5.11549 1.31756 8.34754'/>
+		</time>
+		<time value='97'>
+			<transform rot='-0.342275 0.0442151 -1.57184 ' pivot='-5.0209 2.06756 8.08501'/>
+		</time>
+		<time value='98'>
+			<transform rot='-0.348787 0.0580749 -1.63053 ' pivot='-4.93311 2.81217 7.88198'/>
+		</time>
+		<time value='99'>
+			<transform rot='-0.364418 0.0705687 -1.69352 ' pivot='-4.84929 3.54435 7.73745'/>
+		</time>
+		<time value='100'>
+			<transform rot='-0.389438 0.0806702 -1.75969 ' pivot='-4.76676 4.25749 7.64984'/>
+		</time>
+		<time value='101'>
+			<transform rot='-0.364418 0.0705685 -1.69352 ' pivot='-4.84929 3.54435 7.73745'/>
+		</time>
+		<time value='102'>
+			<transform rot='-0.348787 0.0580743 -1.63053 ' pivot='-4.93311 2.81217 7.88198'/>
+		</time>
+		<time value='103'>
+			<transform rot='-0.342275 0.044216 -1.57183 ' pivot='-5.0209 2.06756 8.08501'/>
+		</time>
+		<time value='104'>
+			<transform rot='-0.344328 0.0299172 -1.51846 ' pivot='-5.1155 1.31756 8.34754'/>
+		</time>
+		<time value='105'>
+			<transform rot='-0.354143 0.0159283 -1.47132 ' pivot='-5.21974 0.569657 8.66992'/>
+		</time>
+		<time value='106'>
+			<transform rot='-0.404152 -0.0608728 -1.44249 ' pivot='-5.43802 -0.39141 8.52414'/>
+		</time>
+		<time value='107'>
+			<transform rot='-0.463435 -0.134632 -1.41838 ' pivot='-5.68003 -1.29828 8.55606'/>
+		</time>
+		<time value='108'>
+			<transform rot='-0.529523 -0.20594 -1.39954 ' pivot='-5.93833 -2.11959 8.75427'/>
+		</time>
+		<time value='109'>
+			<transform rot='-0.599791 -0.275802 -1.38654 ' pivot='-6.20506 -2.82639 9.10138'/>
+		</time>
+		<time value='110'>
+			<transform rot='-0.671514 -0.345517 -1.37984 ' pivot='-6.47233 -3.39344 9.57439'/>
+		</time>
+	</anim>
+	<anim name='Bone20'>
+		<time value='90'>
+			<transform rot='-0.729018 -0.157366 -1.15068 ' pivot='-5.47796 -8.53732 11.4602'/>
+		</time>
+		<time value='91'>
+			<transform rot='-0.643011 -0.122904 -1.16975 ' pivot='-5.22341 -8.09345 10.6177'/>
+		</time>
+		<time value='92'>
+			<transform rot='-0.558816 -0.0851533 -1.1986 ' pivot='-5.00947 -7.4904 9.8929'/>
+		</time>
+		<time value='93'>
+			<transform rot='-0.479537 -0.0419637 -1.23648 ' pivot='-4.84229 -6.75212 9.30345'/>
+		</time>
+		<time value='94'>
+			<transform rot='-0.408385 0.00819105 -1.28227 ' pivot='-4.72683 -5.90361 8.86288'/>
+		</time>
+		<time value='95'>
+			<transform rot='-0.348539 0.0660202 -1.33477 ' pivot='-4.66681 -4.97031 8.58123'/>
+		</time>
+		<time value='96'>
+			<transform rot='-0.338905 0.0689035 -1.40879 ' pivot='-4.82433 -4.24052 8.18098'/>
+		</time>
+		<time value='97'>
+			<transform rot='-0.337436 0.0732978 -1.48949 ' pivot='-5.02668 -3.49519 7.83889'/>
+		</time>
+		<time value='98'>
+			<transform rot='-0.345066 0.0778441 -1.57573 ' pivot='-5.26494 -2.73673 7.55879'/>
+		</time>
+		<time value='99'>
+			<transform rot='-0.362357 0.0809001 -1.66628 ' pivot='-5.52925 -1.96821 7.34484'/>
+		</time>
+		<time value='100'>
+			<transform rot='-0.389438 0.0806699 -1.75969 ' pivot='-5.80892 -1.19387 7.20114'/>
+		</time>
+		<time value='101'>
+			<transform rot='-0.362357 0.0808998 -1.66628 ' pivot='-5.52925 -1.96821 7.34484'/>
+		</time>
+		<time value='102'>
+			<transform rot='-0.345065 0.0778436 -1.57573 ' pivot='-5.26494 -2.73673 7.55879'/>
+		</time>
+		<time value='103'>
+			<transform rot='-0.337436 0.0732987 -1.48949 ' pivot='-5.02668 -3.49519 7.83889'/>
+		</time>
+		<time value='104'>
+			<transform rot='-0.338906 0.0689038 -1.40879 ' pivot='-4.82433 -4.24052 8.18098'/>
+		</time>
+		<time value='105'>
+			<transform rot='-0.348539 0.0660202 -1.33477 ' pivot='-4.66681 -4.97031 8.58123'/>
+		</time>
+		<time value='106'>
+			<transform rot='-0.408384 0.00819043 -1.28227 ' pivot='-4.72684 -5.9036 8.86288'/>
+		</time>
+		<time value='107'>
+			<transform rot='-0.479537 -0.0419642 -1.23648 ' pivot='-4.84229 -6.75212 9.30345'/>
+		</time>
+		<time value='108'>
+			<transform rot='-0.558816 -0.0851525 -1.1986 ' pivot='-5.00947 -7.49039 9.89289'/>
+		</time>
+		<time value='109'>
+			<transform rot='-0.643011 -0.122904 -1.16975 ' pivot='-5.22341 -8.09345 10.6177'/>
+		</time>
+		<time value='110'>
+			<transform rot='-0.729018 -0.157366 -1.15068 ' pivot='-5.47796 -8.53732 11.4602'/>
+		</time>
+	</anim>
+	<anim name='Bone01'>
+		<time value='90'>
+			<transform rot='1.77915 1.31067 -1.29842 ' pivot='1.34556 -0.86373 8.78743'/>
+		</time>
+		<time value='91'>
+			<transform rot='2.54278 1.48771 -0.534438 ' pivot='1.34556 -0.863731 9.10759'/>
+		</time>
+		<time value='92'>
+			<transform rot='-2.05182 1.39048 1.15149 ' pivot='1.34556 -0.86373 9.42775'/>
+		</time>
+		<time value='93'>
+			<transform rot='-1.83062 1.20032 1.36651 ' pivot='1.34556 -0.863731 9.74791'/>
+		</time>
+		<time value='94'>
+			<transform rot='-1.75779 1.02674 1.43014 ' pivot='1.34556 -0.863729 10.0681'/>
+		</time>
+		<time value='95'>
+			<transform rot='-1.71832 0.886915 1.45869 ' pivot='1.34556 -0.86373 10.3882'/>
+		</time>
+		<time value='96'>
+			<transform rot='-1.64591 0.765657 1.5113 ' pivot='1.34556 -0.863731 10.0681'/>
+		</time>
+		<time value='97'>
+			<transform rot='-1.59536 0.686851 1.5498 ' pivot='1.34556 -0.863731 9.74791'/>
+		</time>
+		<time value='98'>
+			<transform rot='-1.55892 0.657832 1.58201 ' pivot='1.34556 -0.86373 9.42775'/>
+		</time>
+		<time value='99'>
+			<transform rot='-1.53076 0.692121 1.61317 ' pivot='1.34556 -0.863731 9.10759'/>
+		</time>
+		<time value='100'>
+			<transform rot='-1.49625 0.89923 1.65981 ' pivot='1.34556 -0.86373 8.78743'/>
+		</time>
+		<time value='101'>
+			<transform rot='-1.52579 0.854214 1.61971 ' pivot='1.34556 -0.863731 9.10759'/>
+		</time>
+		<time value='102'>
+			<transform rot='-1.55687 0.920724 1.58492 ' pivot='1.34556 -0.86373 9.42775'/>
+		</time>
+		<time value='103'>
+			<transform rot='-1.60118 1.0316 1.54117 ' pivot='1.34556 -0.863731 9.74791'/>
+		</time>
+		<time value='104'>
+			<transform rot='-1.67631 1.17733 1.46921 ' pivot='1.34556 -0.863729 10.0681'/>
+		</time>
+		<time value='105'>
+			<transform rot='-1.88379 1.36246 1.26536 ' pivot='1.34556 -0.86373 10.3882'/>
+		</time>
+		<time value='106'>
+			<transform rot='-1.80316 1.26046 1.3595 ' pivot='1.34556 -0.863731 10.0681'/>
+		</time>
+		<time value='107'>
+			<transform rot='-1.84767 1.2927 1.32752 ' pivot='1.34556 -0.863731 9.74791'/>
+		</time>
+		<time value='108'>
+			<transform rot='-2.03488 1.40229 1.15261 ' pivot='1.34556 -0.86373 9.42775'/>
+		</time>
+		<time value='109'>
+			<transform rot='2.72583 1.4967 -0.359127 ' pivot='1.34556 -0.863731 9.10759'/>
+		</time>
+		<time value='110'>
+			<transform rot='1.77915 1.31067 -1.29842 ' pivot='1.34556 -0.86373 8.78743'/>
+		</time>
+	</anim>
+	<anim name='Bone02'>
+		<time value='90'>
+			<transform rot='1.62646 -0.296826 -1.51624 ' pivot='1.73621 -2.2623 3.33153'/>
+		</time>
+		<time value='91'>
+			<transform rot='1.64112 -0.221666 -1.5203 ' pivot='1.74877 -1.10239 3.48124'/>
+		</time>
+		<time value='92'>
+			<transform rot='1.65422 -0.0915151 -1.52339 ' pivot='1.75778 0.0610756 3.87345'/>
+		</time>
+		<time value='93'>
+			<transform rot='1.6643 0.0874027 -1.52399 ' pivot='1.76023 1.13787 4.48511'/>
+		</time>
+		<time value='94'>
+			<transform rot='1.6718 0.303302 -1.5207 ' pivot='1.75526 2.02978 5.23742'/>
+		</time>
+		<time value='95'>
+			<transform rot='1.67934 0.540788 -1.51218 ' pivot='1.74462 2.68095 6.012'/>
+		</time>
+		<time value='96'>
+			<transform rot='1.64643 0.772693 -1.52534 ' pivot='1.58758 3.1993 6.15545'/>
+		</time>
+		<time value='97'>
+			<transform rot='1.60696 1.01776 -1.54543 ' pivot='1.43722 3.50093 6.16786'/>
+		</time>
+		<time value='98'>
+			<transform rot='1.53831 1.27729 -1.59794 ' pivot='1.29547 3.60365 5.97587'/>
+		</time>
+		<time value='99'>
+			<transform rot='0.0169088 1.53997 -3.10786 ' pivot='1.16144 3.47906 5.50458'/>
+		</time>
+		<time value='100'>
+			<transform rot='-1.46904 1.09704 1.69202 ' pivot='1.03328 2.63527 4.3676'/>
+		</time>
+		<time value='101'>
+			<transform rot='-1.37061 1.42164 1.78379 ' pivot='1.16423 2.84008 4.85033'/>
+		</time>
+		<time value='102'>
+			<transform rot='1.39674 1.52212 -1.74161 ' pivot='1.29729 2.55304 4.93344'/>
+		</time>
+		<time value='103'>
+			<transform rot='1.65352 1.38089 -1.4931 ' pivot='1.43144 2.03381 4.90309'/>
+		</time>
+		<time value='104'>
+			<transform rot='1.71579 1.28756 -1.43558 ' pivot='1.56506 1.28968 4.85366'/>
+		</time>
+		<time value='105'>
+			<transform rot='1.78196 1.26206 -1.36814 ' pivot='1.69672 0.249994 4.86449'/>
+		</time>
+		<time value='106'>
+			<transform rot='1.67465 0.825325 -1.48402 ' pivot='1.70715 0.822051 4.69194'/>
+		</time>
+		<time value='107'>
+			<transform rot='1.65593 0.489469 -1.50722 ' pivot='1.71891 0.640581 4.319'/>
+		</time>
+		<time value='108'>
+			<transform rot='1.64728 0.187843 -1.51628 ' pivot='1.73008 0.00153553 3.86188'/>
+		</time>
+		<time value='109'>
+			<transform rot='1.63879 -0.0803391 -1.51861 ' pivot='1.73684 -1.01062 3.47725'/>
+		</time>
+		<time value='110'>
+			<transform rot='1.62646 -0.296826 -1.51624 ' pivot='1.73621 -2.2623 3.33153'/>
+		</time>
+	</anim>
+	<anim name='Bone03'>
+		<time value='90'>
+			<transform rot='1.62646 -0.296826 -1.51624 ' pivot='1.96329 -6.42082 4.60536'/>
+		</time>
+		<time value='91'>
+			<transform rot='1.64112 -0.221666 -1.5203 ' pivot='1.96324 -5.34558 4.43874'/>
+		</time>
+		<time value='92'>
+			<transform rot='1.65422 -0.0915151 -1.52339 ' pivot='1.96328 -4.271 4.27146'/>
+		</time>
+		<time value='93'>
+			<transform rot='1.6643 0.0874027 -1.52399 ' pivot='1.96324 -3.19592 4.10494'/>
+		</time>
+		<time value='94'>
+			<transform rot='1.6718 0.303301 -1.5207 ' pivot='1.96337 -2.12139 3.93664'/>
+		</time>
+		<time value='95'>
+			<transform rot='1.67934 0.540788 -1.51218 ' pivot='1.96335 -1.04634 3.7699'/>
+		</time>
+		<time value='96'>
+			<transform rot='1.64643 0.772693 -1.52534 ' pivot='1.72929 0.0840762 3.11525'/>
+		</time>
+		<time value='97'>
+			<transform rot='1.60696 1.01776 -1.54543 ' pivot='1.49523 1.21399 2.46191'/>
+		</time>
+		<time value='98'>
+			<transform rot='1.53831 1.27729 -1.59794 ' pivot='1.26127 2.34413 1.80694'/>
+		</time>
+		<time value='99'>
+			<transform rot='0.0169088 1.53997 -3.10786 ' pivot='1.02728 3.47454 1.15148'/>
+		</time>
+		<time value='100'>
+			<transform rot='-1.46904 1.09704 1.69202 ' pivot='0.793011 4.60765 0.492098'/>
+		</time>
+		<time value='101'>
+			<transform rot='-1.37061 1.42164 1.78379 ' pivot='1.02742 3.47268 0.543513'/>
+		</time>
+		<time value='102'>
+			<transform rot='1.39674 1.52212 -1.74161 ' pivot='1.26127 2.34423 0.583428'/>
+		</time>
+		<time value='103'>
+			<transform rot='1.65352 1.38089 -1.4931 ' pivot='1.49525 1.21419 0.626214'/>
+		</time>
+		<time value='104'>
+			<transform rot='1.71579 1.28756 -1.43558 ' pivot='1.72913 0.0836931 0.672009'/>
+		</time>
+		<time value='105'>
+			<transform rot='1.78196 1.26206 -1.36814 ' pivot='1.96307 -1.04626 0.715232'/>
+		</time>
+		<time value='106'>
+			<transform rot='1.67465 0.825325 -1.48402 ' pivot='1.96319 -2.12102 1.49189'/>
+		</time>
+		<time value='107'>
+			<transform rot='1.65593 0.489469 -1.50722 ' pivot='1.96311 -3.19545 2.27138'/>
+		</time>
+		<time value='108'>
+			<transform rot='1.64728 0.187843 -1.51628 ' pivot='1.96323 -4.27067 3.04859'/>
+		</time>
+		<time value='109'>
+			<transform rot='1.63879 -0.0803391 -1.51861 ' pivot='1.96328 -5.34583 3.82676'/>
+		</time>
+		<time value='110'>
+			<transform rot='1.62646 -0.296826 -1.51624 ' pivot='1.96329 -6.42082 4.60536'/>
+		</time>
+	</anim>
+	<anim name='Bone18'>
+		<time value='90'>
+			<transform rot='1.80565 1.31277 -1.27277 ' pivot='1.96329 -6.42082 4.60536'/>
+		</time>
+		<time value='91'>
+			<transform rot='2.25771 1.45286 -0.822472 ' pivot='1.96324 -5.34558 4.43874'/>
+		</time>
+		<time value='92'>
+			<transform rot='-2.19504 1.41853 1.00468 ' pivot='1.96328 -4.271 4.27146'/>
+		</time>
+		<time value='93'>
+			<transform rot='-1.82484 1.17084 1.37082 ' pivot='1.96324 -3.19592 4.10494'/>
+		</time>
+		<time value='94'>
+			<transform rot='-1.72691 0.874534 1.46533 ' pivot='1.96337 -2.12139 3.93664'/>
+		</time>
+		<time value='95'>
+			<transform rot='-1.68225 0.554321 1.50855 ' pivot='1.96335 -1.04634 3.7699'/>
+		</time>
+		<time value='96'>
+			<transform rot='-1.63581 0.540466 1.52393 ' pivot='1.72929 0.084076 3.11525'/>
+		</time>
+		<time value='97'>
+			<transform rot='-1.59424 0.512354 1.54786 ' pivot='1.49523 1.21399 2.46191'/>
+		</time>
+		<time value='98'>
+			<transform rot='-1.56157 0.468022 1.57283 ' pivot='1.26127 2.34413 1.80694'/>
+		</time>
+		<time value='99'>
+			<transform rot='-1.53822 0.389936 1.59384 ' pivot='1.02728 3.47454 1.15148'/>
+		</time>
+		<time value='100'>
+			<transform rot='-1.52312 0.132686 1.60159 ' pivot='0.793011 4.60765 0.492098'/>
+		</time>
+		<time value='101'>
+			<transform rot='-1.53998 0.305322 1.58884 ' pivot='1.02742 3.47268 0.543513'/>
+		</time>
+		<time value='102'>
+			<transform rot='-1.56228 0.34678 1.57056 ' pivot='1.26127 2.34423 0.583428'/>
+		</time>
+		<time value='103'>
+			<transform rot='-1.58769 0.335234 1.5555 ' pivot='1.49525 1.21419 0.626213'/>
+		</time>
+		<time value='104'>
+			<transform rot='-1.61271 0.273342 1.5492 ' pivot='1.72913 0.0836932 0.672009'/>
+		</time>
+		<time value='105'>
+			<transform rot='-1.63433 0.142327 1.55683 ' pivot='1.96307 -1.04626 0.715232'/>
+		</time>
+		<time value='106'>
+			<transform rot='-1.65875 0.603912 1.52522 ' pivot='1.96319 -2.12102 1.49189'/>
+		</time>
+		<time value='107'>
+			<transform rot='-1.7091 0.960974 1.47586 ' pivot='1.96311 -3.19545 2.27138'/>
+		</time>
+		<time value='108'>
+			<transform rot='-1.85449 1.27982 1.33536 ' pivot='1.96323 -4.27067 3.04859'/>
+		</time>
+		<time value='109'>
+			<transform rot='2.98398 1.49612 -0.102034 ' pivot='1.96328 -5.34584 3.82676'/>
+		</time>
+		<time value='110'>
+			<transform rot='1.80565 1.31277 -1.27277 ' pivot='1.96329 -6.42082 4.60536'/>
+		</time>
+	</anim>
+	<anim name='Bone36'>
+		<time value='90'>
+			<transform rot='1.66403 -0.822412 -1.68538 ' pivot='-1.34556 -0.86373 8.78743'/>
+		</time>
+		<time value='91'>
+			<transform rot='1.6401 -0.808229 -1.64731 ' pivot='-1.34556 -0.86373 9.10759'/>
+		</time>
+		<time value='92'>
+			<transform rot='1.61338 -0.893969 -1.61437 ' pivot='-1.34556 -0.863731 9.42775'/>
+		</time>
+		<time value='93'>
+			<transform rot='1.5738 -1.0288 -1.57368 ' pivot='-1.34556 -0.86373 9.74791'/>
+		</time>
+		<time value='94'>
+			<transform rot='1.50089 -1.20708 -1.50285 ' pivot='-1.34556 -0.863732 10.0681'/>
+		</time>
+		<time value='95'>
+			<transform rot='1.10352 -1.46014 -1.10708 ' pivot='-1.34556 -0.86373 10.3882'/>
+		</time>
+		<time value='96'>
+			<transform rot='1.36502 -1.29923 -1.38039 ' pivot='-1.34556 -0.86373 10.0681'/>
+		</time>
+		<time value='97'>
+			<transform rot='1.33493 -1.3179 -1.36013 ' pivot='-1.34556 -0.86373 9.74791'/>
+		</time>
+		<time value='98'>
+			<transform rot='1.17365 -1.41842 -1.20842 ' pivot='-1.34556 -0.86373 9.42775'/>
+		</time>
+		<time value='99'>
+			<transform rot='-0.506977 -1.5095 0.463793 ' pivot='-1.34556 -0.86373 9.10759'/>
+		</time>
+		<time value='100'>
+			<transform rot='-1.39658 -1.32093 1.34737 ' pivot='-1.34556 -0.86373 8.78743'/>
+		</time>
+		<time value='101'>
+			<transform rot='-0.668805 -1.50136 0.619095 ' pivot='-1.34556 -0.86373 9.10759'/>
+		</time>
+		<time value='102'>
+			<transform rot='1.17837 -1.39865 -1.22638 ' pivot='-1.34556 -0.863731 9.42775'/>
+		</time>
+		<time value='103'>
+			<transform rot='1.36165 -1.20863 -1.40535 ' pivot='-1.34556 -0.86373 9.74791'/>
+		</time>
+		<time value='104'>
+			<transform rot='1.42042 -1.03381 -1.4574 ' pivot='-1.34556 -0.863732 10.0681'/>
+		</time>
+		<time value='105'>
+			<transform rot='1.45211 -0.889164 -1.48087 ' pivot='-1.34556 -0.86373 10.3882'/>
+		</time>
+		<time value='106'>
+			<transform rot='1.52421 -0.749424 -1.53412 ' pivot='-1.34556 -0.86373 10.0681'/>
+		</time>
+		<time value='107'>
+			<transform rot='1.57319 -0.654489 -1.57282 ' pivot='-1.34556 -0.86373 9.74791'/>
+		</time>
+		<time value='108'>
+			<transform rot='1.60734 -0.612874 -1.60552 ' pivot='-1.34556 -0.86373 9.42775'/>
+		</time>
+		<time value='109'>
+			<transform rot='1.63287 -0.637229 -1.63759 ' pivot='-1.34556 -0.86373 9.10759'/>
+		</time>
+		<time value='110'>
+			<transform rot='1.66403 -0.822412 -1.68538 ' pivot='-1.34556 -0.86373 8.78743'/>
+		</time>
+	</anim>
+	<anim name='Bone33'>
+		<time value='90'>
+			<transform rot='1.70751 -1.08737 -1.73818 ' pivot='-0.906314 2.95282 4.65022'/>
+		</time>
+		<time value='91'>
+			<transform rot='1.85129 -1.39712 -1.87364 ' pivot='-1.04746 3.02489 5.02529'/>
+		</time>
+		<time value='92'>
+			<transform rot='-2.30425 -1.53096 2.29349 ' pivot='-1.19154 2.66903 5.02647'/>
+		</time>
+		<time value='93'>
+			<transform rot='-1.58025 -1.40594 1.57981 ' pivot='-1.33715 2.04864 4.91123'/>
+		</time>
+		<time value='94'>
+			<transform rot='-1.46413 -1.33521 1.46965 ' pivot='-1.48192 1.14017 4.79159'/>
+		</time>
+		<time value='95'>
+			<transform rot='-1.29629 -1.38624 1.29963 ' pivot='-1.62443 -0.306087 4.77693'/>
+		</time>
+		<time value='96'>
+			<transform rot='-1.48482 -0.878529 1.49652 ' pivot='-1.63218 0.623351 4.62915'/>
+		</time>
+		<time value='97'>
+			<transform rot='-1.50273 -0.536038 1.51803 ' pivot='-1.64096 0.517701 4.28167'/>
+		</time>
+		<time value='98'>
+			<transform rot='-1.5104 -0.234179 1.52613 ' pivot='-1.64935 -0.0623953 3.84734'/>
+		</time>
+		<time value='99'>
+			<transform rot='-1.51719 0.0332096 1.5286 ' pivot='-1.65486 -1.01843 3.47236'/>
+		</time>
+		<time value='100'>
+			<transform rot='-1.52654 0.250687 1.52726 ' pivot='-1.65489 -2.2251 3.31693'/>
+		</time>
+		<time value='101'>
+			<transform rot='-1.51538 0.185418 1.53014 ' pivot='-1.66459 -1.09105 3.47537'/>
+		</time>
+		<time value='102'>
+			<transform rot='-1.50509 0.0675348 1.53246 ' pivot='-1.6721 0.0465665 3.86536'/>
+		</time>
+		<time value='103'>
+			<transform rot='-1.49681 -0.0980349 1.53305 ' pivot='-1.67499 1.10929 4.46832'/>
+		</time>
+		<time value='104'>
+			<transform rot='-1.49045 -0.301741 1.5308 ' pivot='-1.67234 2.00584 5.21687'/>
+		</time>
+		<time value='105'>
+			<transform rot='-1.48426 -0.529278 1.52461 ' pivot='-1.665 2.67912 6.00399'/>
+		</time>
+		<time value='106'>
+			<transform rot='-1.52348 -0.765944 1.54292 ' pivot='-1.49713 3.2667 6.22203'/>
+		</time>
+		<time value='107'>
+			<transform rot='-1.57443 -1.01942 1.57332 ' pivot='-1.33647 3.61543 6.31099'/>
+		</time>
+		<time value='108'>
+			<transform rot='-1.6779 -1.28745 1.65997 ' pivot='-1.18525 3.75177 6.18015'/>
+		</time>
+		<time value='109'>
+			<transform rot='2.77045 -1.51727 -2.7998 ' pivot='-1.04268 3.66398 5.74849'/>
+		</time>
+		<time value='110'>
+			<transform rot='1.70751 -1.08737 -1.73818 ' pivot='-0.906314 2.95282 4.65022'/>
+		</time>
+	</anim>
+	<anim name='Bone34'>
+		<time value='90'>
+			<transform rot='1.70751 -1.08737 -1.73818 ' pivot='-0.569053 4.94887 0.794122'/>
+		</time>
+		<time value='91'>
+			<transform rot='1.85129 -1.39712 -1.87364 ' pivot='-0.823011 3.74326 0.735639'/>
+		</time>
+		<time value='92'>
+			<transform rot='-2.30425 -1.53096 2.29349 ' pivot='-1.07682 2.53895 0.674749'/>
+		</time>
+		<time value='93'>
+			<transform rot='-1.58025 -1.40594 1.57981 ' pivot='-1.33071 1.33394 0.615103'/>
+		</time>
+		<time value='94'>
+			<transform rot='-1.46413 -1.33521 1.46965 ' pivot='-1.58457 0.128795 0.556722'/>
+		</time>
+		<time value='95'>
+			<transform rot='-1.29629 -1.38624 1.29963 ' pivot='-1.8385 -1.0761 0.495719'/>
+		</time>
+		<time value='96'>
+			<transform rot='-1.48482 -0.878529 1.49652 ' pivot='-1.83847 -2.14882 1.27653'/>
+		</time>
+		<time value='97'>
+			<transform rot='-1.50273 -0.536038 1.51803 ' pivot='-1.83844 -3.2214 2.05733'/>
+		</time>
+		<time value='98'>
+			<transform rot='-1.5104 -0.234179 1.52613 ' pivot='-1.83849 -4.29447 2.83674'/>
+		</time>
+		<time value='99'>
+			<transform rot='-1.51719 0.0332096 1.5286 ' pivot='-1.8385 -5.36733 3.61696'/>
+		</time>
+		<time value='100'>
+			<transform rot='-1.52654 0.250687 1.52726 ' pivot='-1.8385 -6.44014 4.39731'/>
+		</time>
+		<time value='101'>
+			<transform rot='-1.51538 0.185418 1.53014 ' pivot='-1.83858 -5.36803 4.27827'/>
+		</time>
+		<time value='102'>
+			<transform rot='-1.50509 0.0675348 1.53246 ' pivot='-1.83864 -4.29549 4.15926'/>
+		</time>
+		<time value='103'>
+			<transform rot='-1.49681 -0.0980349 1.53305 ' pivot='-1.83854 -3.22189 4.04204'/>
+		</time>
+		<time value='104'>
+			<transform rot='-1.49045 -0.301741 1.5308 ' pivot='-1.83863 -2.14924 3.92258'/>
+		</time>
+		<time value='105'>
+			<transform rot='-1.48426 -0.529278 1.52461 ' pivot='-1.83857 -1.07613 3.80502'/>
+		</time>
+		<time value='106'>
+			<transform rot='-1.52348 -0.765944 1.54292 ' pivot='-1.58462 0.129023 3.20295'/>
+		</time>
+		<time value='107'>
+			<transform rot='-1.57443 -1.01942 1.57332 ' pivot='-1.33071 1.33393 2.60124'/>
+		</time>
+		<time value='108'>
+			<transform rot='-1.6779 -1.28745 1.65997 ' pivot='-1.07681 2.53903 1.99864'/>
+		</time>
+		<time value='109'>
+			<transform rot='2.77045 -1.51727 -2.7998 ' pivot='-0.823145 3.74208 1.39955'/>
+		</time>
+		<time value='110'>
+			<transform rot='1.70751 -1.08737 -1.73818 ' pivot='-0.569053 4.94887 0.794122'/>
+		</time>
+	</anim>
+	<anim name='Bone35'>
+		<time value='90'>
+			<transform rot='1.636 -0.213287 -1.62585 ' pivot='-0.569053 4.94887 0.794121'/>
+		</time>
+		<time value='91'>
+			<transform rot='1.62176 -0.377113 -1.61101 ' pivot='-0.823011 3.74326 0.735639'/>
+		</time>
+		<time value='92'>
+			<transform rot='1.59929 -0.425275 -1.58803 ' pivot='-1.07682 2.53895 0.674749'/>
+		</time>
+		<time value='93'>
+			<transform rot='1.57179 -0.411909 -1.5666 ' pivot='-1.33071 1.33394 0.615103'/>
+		</time>
+		<time value='94'>
+			<transform rot='1.54423 -0.332476 -1.55459 ' pivot='-1.58457 0.128795 0.556723'/>
+		</time>
+		<time value='95'>
+			<transform rot='1.52139 -0.127162 -1.56073 ' pivot='-1.8385 -1.0761 0.495719'/>
+		</time>
+		<time value='96'>
+			<transform rot='1.504 -0.569341 -1.53803 ' pivot='-1.83847 -2.14882 1.27653'/>
+		</time>
+		<time value='97'>
+			<transform rot='1.47892 -0.841963 -1.51595 ' pivot='-1.83844 -3.2214 2.05733'/>
+		</time>
+		<time value='98'>
+			<transform rot='1.43999 -1.07338 -1.48286 ' pivot='-1.83849 -4.29447 2.83674'/>
+		</time>
+		<time value='99'>
+			<transform rot='1.37492 -1.26986 -1.4248 ' pivot='-1.8385 -5.36733 3.61696'/>
+		</time>
+		<time value='100'>
+			<transform rot='1.25853 -1.41604 -1.31449 ' pivot='-1.8385 -6.44014 4.39731'/>
+		</time>
+		<time value='101'>
+			<transform rot='1.36733 -1.2766 -1.42406 ' pivot='-1.83858 -5.36803 4.27827'/>
+		</time>
+		<time value='102'>
+			<transform rot='1.42263 -1.08391 -1.47899 ' pivot='-1.83864 -4.29549 4.15926'/>
+		</time>
+		<time value='103'>
+			<transform rot='1.45595 -0.843314 -1.51116 ' pivot='-1.83854 -3.22189 4.04204'/>
+		</time>
+		<time value='104'>
+			<transform rot='1.47832 -0.564454 -1.53254 ' pivot='-1.83863 -2.14924 3.92258'/>
+		</time>
+		<time value='105'>
+			<transform rot='1.49359 -0.261599 -1.54825 ' pivot='-1.83857 -1.07613 3.80502'/>
+		</time>
+		<time value='106'>
+			<transform rot='1.53466 -0.320792 -1.54952 ' pivot='-1.58462 0.129022 3.20295'/>
+		</time>
+		<time value='107'>
+			<transform rot='1.57241 -0.362278 -1.56701 ' pivot='-1.33071 1.33393 2.60124'/>
+		</time>
+		<time value='108'>
+			<transform rot='1.60251 -0.386705 -1.59153 ' pivot='-1.07682 2.53903 1.99864'/>
+		</time>
+		<time value='109'>
+			<transform rot='1.62397 -0.379287 -1.61541 ' pivot='-0.823145 3.74208 1.39955'/>
+		</time>
+		<time value='110'>
+			<transform rot='1.636 -0.213287 -1.62585 ' pivot='-0.569053 4.94887 0.794121'/>
+		</time>
+	</anim>
+	<anim name='ITEM'>
+		<time value='90'>
+			<transform rot='-1.5708 -0.0142844 1.5708 ' pivot='2.04688e-007 4.68272 0.0955434'/>
+		</time>
+		<time value='91'>
+			<transform rot='-1.5708 -0.0142844 1.5708 ' pivot='2.04688e-007 4.68272 0.0955434'/>
+		</time>
+		<time value='92'>
+			<transform rot='-1.5708 -0.0142844 1.5708 ' pivot='2.04688e-007 4.68272 0.0955434'/>
+		</time>
+		<time value='93'>
+			<transform rot='-1.5708 -0.0142844 1.5708 ' pivot='2.04688e-007 4.68272 0.0955434'/>
+		</time>
+		<time value='94'>
+			<transform rot='-1.5708 -0.0142844 1.5708 ' pivot='2.04688e-007 4.68272 0.0955434'/>
+		</time>
+		<time value='95'>
+			<transform rot='-1.5708 -0.0142844 1.5708 ' pivot='2.04688e-007 4.68272 0.0955434'/>
+		</time>
+		<time value='96'>
+			<transform rot='-1.5708 -0.0142844 1.5708 ' pivot='2.04688e-007 4.68272 0.0955434'/>
+		</time>
+		<time value='97'>
+			<transform rot='-1.5708 -0.0142844 1.5708 ' pivot='2.04688e-007 4.68272 0.0955434'/>
+		</time>
+		<time value='98'>
+			<transform rot='-1.5708 -0.0142844 1.5708 ' pivot='2.04688e-007 4.68272 0.0955434'/>
+		</time>
+		<time value='99'>
+			<transform rot='-1.5708 -0.0142844 1.5708 ' pivot='2.04688e-007 4.68272 0.0955434'/>
+		</time>
+		<time value='100'>
+			<transform rot='-1.5708 -0.0142844 1.5708 ' pivot='2.04688e-007 4.68272 0.0955434'/>
+		</time>
+		<time value='101'>
+			<transform rot='-1.5708 -0.0142844 1.5708 ' pivot='2.04688e-007 4.68272 0.0955434'/>
+		</time>
+		<time value='102'>
+			<transform rot='-1.5708 -0.0142844 1.5708 ' pivot='2.04688e-007 4.68272 0.0955434'/>
+		</time>
+		<time value='103'>
+			<transform rot='-1.5708 -0.0142844 1.5708 ' pivot='2.04688e-007 4.68272 0.0955434'/>
+		</time>
+		<time value='104'>
+			<transform rot='-1.5708 -0.0142844 1.5708 ' pivot='2.04688e-007 4.68272 0.0955434'/>
+		</time>
+		<time value='105'>
+			<transform rot='-1.5708 -0.0142844 1.5708 ' pivot='2.04688e-007 4.68272 0.0955434'/>
+		</time>
+		<time value='106'>
+			<transform rot='-1.5708 -0.0142844 1.5708 ' pivot='2.04688e-007 4.68272 0.0955434'/>
+		</time>
+		<time value='107'>
+			<transform rot='-1.5708 -0.0142844 1.5708 ' pivot='2.04688e-007 4.68272 0.0955434'/>
+		</time>
+		<time value='108'>
+			<transform rot='-1.5708 -0.0142844 1.5708 ' pivot='2.04688e-007 4.68272 0.0955434'/>
+		</time>
+		<time value='109'>
+			<transform rot='-1.5708 -0.0142844 1.5708 ' pivot='2.04688e-007 4.68272 0.0955434'/>
+		</time>
+		<time value='110'>
+			<transform rot='-1.5708 -0.0142844 1.5708 ' pivot='2.04688e-007 4.68272 0.0955434'/>
+		</time>
+	</anim>
+</animation>
